@@ -1,0 +1,273 @@
+body {
+    background-color: #404040;
+}
+
+.menuTable {
+    margin-top: 0px;
+    margin-left: 0px;
+    padding: 0px;
+}
+
+.dropdown-toggle {
+    font-size: 16px;
+    font-family: HelveticaNeue-Light, Tahoma, Geneva, sans-serif;
+    color: beige;
+    background-color: grey;
+    border-style: none;
+}
+
+.dropdown-menu {
+    list-style-type: none;
+    text-align: justify;
+    font-size: 16px;
+    padding-right: 20px;
+    font-family: HelveticaNeue-Light, Tahoma, Geneva, sans-serif;
+    color: black;
+    font-weight: 100;
+    width: 100%;
+    margin: 0px;
+    margin-left: 0px;
+    background-color: lightgrey;
+}
+
+.menu {
+    list-style-type: none;
+    text-align: justify;
+    font-size: 20px;
+    padding-right: 20px;
+    height: 30px;
+    font-family: HelveticaNeue-Light, Tahoma, Geneva, sans-serif;
+    color: black;
+    font-weight: 100;
+}
+
+.menu tr{
+    border: none;
+}
+
+.menu td {
+    width: 150px;
+}
+
+.menu td a {
+    display: inline-block;
+    color: black;
+    background-color: grey;
+	width: 100%;
+    height: 100%;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 10px;
+}
+
+.menu td a:link {
+    text-decoration: none;
+}
+
+.menu td a:hover {
+    text-decoration: none;
+    color: aquamarine;
+}
+
+.menu td a:visited {
+   text-decoration: none;
+}
+
+.menu td a:active {
+   text-decoration: underline;
+}
+
+#statsLink {
+    color: aquamarine;
+    background-color: black;
+}
+
+.label {
+    border-radius: 10px;
+    font-size: 20px;
+    color: beige;
+    width: 100%;
+    font-family: HelveticaNeue-Light, Tahoma, Geneva, sans-serif;
+    font-weight: 100;
+}
+
+.errorLabel {
+    display: inline-block;
+    padding: 0px 10px 0px 10px;
+    margin-left: 10px;
+    border-radius: 10px;
+    font-size: 16px;
+    color: red;
+    font-family: HelveticaNeue-Light, Tahoma, Geneva, sans-serif;
+    background-color: beige;
+    font-weight: 500;
+}
+
+td {
+    padding: 5px 10px 0px 10px;
+    margin: 5px 5px 5px 5px;
+    border: solid 3px #404040;
+}
+
+.errorRow{
+    padding: 0px;
+    margin: 0px;
+}
+
+.input {
+    display: inline-block;
+    border-radius: 10px;
+    height: 24px;
+    font-size: 16px;
+    color: blueviolet;
+    width: 100px;
+    font-family: Verdana, serif;
+    background-color: lightgrey;
+    text-align: center;
+}
+
+.tab a {
+    color: black;
+    font-family: HelveticaNeue-Light, Tahoma, Geneva, sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.tab-content h3 {
+    color: black;
+    font-family: HelveticaNeue-Light, Tahoma, Geneva, sans-serif;
+    font-weight: 100;
+}
+
+#rolesTitle {
+    color: black;
+    font-family: HelveticaNeue-Light, Tahoma, Geneva, sans-serif;
+    font-weight: 100;
+    text-align: left;
+}
+
+#salesStats td {
+    column-span: 1;
+    width: 100px;
+}
+
+#engStats td {
+    column-span: 1;
+    width: 100px;
+}
+
+#csmStats td {
+    column-span: 1;
+    width: 100px;
+}
+
+#internsStats td {
+    column-span: 1;
+    width: 100px;
+}
+
+.labelTD{
+    border-radius: 10px;
+    font-size: 20px;
+    color: beige;
+    font-family: HelveticaNeue-Light, Tahoma, Geneva, sans-serif;
+    font-weight: 100;
+    text-align: left;
+    margin-right: 0px;
+    padding: 0px;
+}
+
+.rowHeader {
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+}
+
+.source {
+    text-decoration: underline;
+    font-weight: 600;
+    padding: 0px;
+}
+
+h2 {
+    text-align: left;
+    font-family: HelveticaNeue-Light, Tahoma, Geneva, sans-serif;
+    font-weight: 100;
+    color: beige;
+    padding: 0px;
+    margin: 10px 0px 0px 0px;
+}
+
+tr {
+    border-bottom: 1px solid beige;
+}
+
+#controlDiv tr {
+    border: none;
+}
+
+#controlDiv select {
+    font-size: 18px;
+    background-color: lightgrey;
+    font-family: HelveticaNeue-Light, Tahoma, Geneva, sans-serif;
+    font-weight: 100;
+}
+
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:hover,
+.nav-tabs > li.active > a:focus {
+    background-color: lightgrey;
+    border: 1px solid lightgrey;
+    color: black;
+}
+
+#addStatsButton {
+    display: inline-block;
+    border-radius: 10px;
+    border-style: none;
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px 20px 0px 20px ;
+    height: 30px;
+    font-size: 20px;
+    font-family: HelveticaNeue-Light, Tahoma, Geneva, sans-serif;
+    color: beige;
+    background-color: grey;
+    font-weight: 100;
+}
+
+#editStatsButton {
+    display: inline-block;
+    border-radius: 10px;
+    border-style: none;
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px 20px 0px 20px ;
+    height: 30px;
+    font-size: 20px;
+    font-family: HelveticaNeue-Light, Tahoma, Geneva, sans-serif;
+    color: beige;
+    background-color: grey;
+    font-weight: 100;
+}
+
+#controlDiv {
+    margin: 0px 0px 10px 10px;
+    padding: 10px;
+    border-top: 1px solid beige;
+    border-left: 1px solid beige;
+    border-bottom-width: 1px;
+    -moz-border-image: -moz-linear-gradient(left, beige 0%, #404040 80%);
+    -webkit-border-image: -webkit-linear-gradient(left, beige 0%, #404040 80%);
+    border-image-slice: 1;
+    
+}
+
+#centerDiv {
+    margin: 0px 0px 0px 0px;
+}
+
+.container {
+    margin-left: 10px;
+    padding: 0px;
+}

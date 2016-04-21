@@ -1,0 +1,285 @@
+body {
+    background-color: #404040;
+}
+
+div {
+    margin: 0px;
+    padding: 0px;
+}
+
+table {
+    margin: 0px;
+    padding: 0px;
+}
+
+tr {
+    margin: 0px;
+    padding: 0px;
+}
+
+#leftDiv {
+    display: block;
+    vertical-align: top;
+    padding: 0px 10px 0px 0px;
+}
+
+#centerDiv {
+    display: block;
+}
+
+#rightDiv {
+    display: block;
+}
+
+.centerDiv2 {
+    display: block;
+}
+
+.menuTable {
+    margin-top: 0px;
+    margin-left: 0px;
+    padding: 0px;
+}
+
+.dropdown-toggle {
+    font-size: 16px;
+    font-family: HelveticaNeue-Light, Tahoma, Geneva, sans-serif;
+    color: beige;
+    background-color: grey;
+    border-style: none;
+}
+
+.dropdown-menu {
+    list-style-type: none;
+    text-align: justify;
+    font-size: 16px;
+    padding-right: 20px;
+    font-family: HelveticaNeue-Light, Tahoma, Geneva, sans-serif;
+    color: black;
+    font-weight: 100;
+    width: 100%;
+    margin: 0px;
+    margin-left: 0px;
+    background-color: lightgrey;
+}
+
+.menu {
+    list-style-type: none;
+    text-align: justify;
+    font-size: 20px;
+    padding-right: 20px;
+    height: 30px;
+    font-family: HelveticaNeue-Light, Tahoma, Geneva, sans-serif;
+    color: black;
+    font-weight: 100;
+    width: 100%;
+}
+
+.menu td {
+    width: 150px;
+}
+
+.menu td a {
+    display: inline-block;
+    color: black;
+    background-color: grey;
+	width: 100%;
+    height: 100%;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 10px;
+}
+
+.menu td a:link {
+    text-decoration: none;
+}
+
+.menu td a:hover {
+    text-decoration: none;
+    color: aquamarine;
+}
+
+.menu td a:visited {
+   text-decoration: none;
+}
+
+.menu td a:active {
+   text-decoration: underline;
+}
+
+#addLink {
+    color: aquamarine;
+    background-color: black;
+}
+
+.label {
+    margin: 10px 0px 0px 0px;
+    display: inline-block;
+    border-radius: 10px;
+    font-size: 20px;
+    color: beige;
+    width: 100%;
+    font-weight: 100;
+    text-align: left;
+    padding: 0px;
+    font-family: HelveticaNeue-Light, Tahoma, Geneva, sans-serif;
+}
+
+.labelTD{
+    border-radius: 10px;
+    font-size: 20px;
+    color: beige;
+    width: 100px;
+    font-family: HelveticaNeue-Light, Tahoma, Geneva, sans-serif;
+    font-weight: 100;
+    text-align: left;
+}
+
+.radioLabel {
+    margin: 10px 0px 0px 0px;
+    padding-left: 0px;
+    display: inline-block;
+    border-radius: 10px;
+    font-size: 20px;
+    color: beige;
+    font-family: HelveticaNeue-Light, Tahoma, Geneva, sans-serif;
+    font-weight: 100;
+    text-align: center;
+    align-items: flex-start;
+    width: 100%;
+}
+
+.errorLabel {
+    display: inline-block;
+    border-radius: 10px;
+    padding-left: 10px;
+    font-size: 16px;
+    color: red;
+    font-family: HelveticaNeue-Light, Tahoma, Geneva, sans-serif;
+    font-weight: 500;
+}
+
+td {
+    padding: 5px 10px 0px 10px;
+    margin: 5px 5px 5px 5px;
+    border: solid 3px #404040;
+}
+
+#seniorityTD {
+    text-align: left;
+}
+
+#roleTD {
+    text-align: left;
+}
+
+.inputRow {
+    vertical-align: top;
+}
+
+/*
+.roleRow td {    
+    margin: 0px;
+    padding: 0px;
+    text-align: right;
+}
+*/
+
+.errorRow{
+    padding: 0px;
+    margin: 0px;
+}
+
+/*
+.roleLabel { 
+    padding: 0px 5px 0px 10px;
+    display: inline-block;
+    border-radius: 10px;
+    text-align: right;
+    font-size: 20px;
+    color: beige;
+    font-family: HelveticaNeue-Light, Tahoma, Geneva, sans-serif;
+    font-weight: 100;
+}
+
+.roleInput { 
+    padding: 0px 0px 0px 20px;
+    border-radius: 10px;
+    display: inline-block;
+    height: 24px;
+    font-size: 16px;
+    color: blueviolet;
+    font-family: HelveticaNeue-Light, Tahoma, Geneva, sans-serif;
+    background-color: lightgrey;
+}
+*/
+
+.input {
+    display: inline-block;
+    border-radius: 10px;
+    height: 24px;
+    font-size: 16px;
+    color: blueviolet;
+    width: 100%;
+    font-family: HelveticaNeue-Light, Tahoma, Geneva, sans-serif;
+    font-weight: 100;
+    background-color: lightgrey;
+}
+
+.radioInput {
+    display: inline-block;
+    margin: 0px 0px 0px 0px;
+    border-radius: 10px;
+    font-size: 16px;
+    font-family: HelveticaNeue-Light, Tahoma, Geneva, sans-serif;
+    font-weight: 100;
+    background-color: lightgrey;
+    color: beige;
+    padding: 0px;
+}
+
+.radioTD {
+    font-size: 16px;
+    font-family: HelveticaNeue-Light, Tahoma, Geneva, sans-serif;
+    font-weight: 100;
+    color: beige;
+/*    width: 100%;*/
+}
+
+.textarea {
+    display: inline-block;
+    border-radius: 10px;
+    height: 72px;
+    width: 100%;
+    font-size: 16px;
+    color: blueviolet;
+    font-family: HelveticaNeue-Light, Tahoma, Geneva, sans-serif;
+    font-weight: 100;
+    background-color: lightgrey;
+}
+
+.buttonRow{
+    
+}
+
+
+hr {
+    border-color: beige;
+    border-style: solid;
+}
+
+#addButton {
+    display: inline-block;
+    border-radius: 10px;
+    border-style: none;
+    margin: 0px;
+    padding: 0px 10px 0px 10px ;
+    height: 30px;
+    font-size: 20px;
+    text-decoration: none;
+    width: 100%;
+    font-family: HelveticaNeue-Light, Tahoma, Geneva, sans-serif;
+    color: beige;
+    background-color: grey;
+    font-weight: 100;
+}

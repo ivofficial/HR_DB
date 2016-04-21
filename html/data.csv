@@ -1,0 +1,1345 @@
+MonthYear,Month,Year,Role,Source,Stage,Candidates
+3/2016,3,2016,Sales,Referral,"All Applicants",2
+3/2016,3,2016,Sales,Referral,"Phone Screen",2
+3/2016,3,2016,Sales,Referral,Onsite,2
+3/2016,3,2016,Sales,Referral,"Final Onsite",0
+3/2016,3,2016,Sales,Referral,Offer,0
+3/2016,3,2016,Sales,Referral,Accept,0
+3/2016,3,2016,Sales,Referral,Decline,0
+3/2016,3,2016,Sales,"Angel List","All Applicants",13
+3/2016,3,2016,Sales,"Angel List","Phone Screen",2
+3/2016,3,2016,Sales,"Angel List",Onsite,0
+3/2016,3,2016,Sales,"Angel List","Final Onsite",0
+3/2016,3,2016,Sales,"Angel List",Offer,0
+3/2016,3,2016,Sales,"Angel List",Accept,0
+3/2016,3,2016,Sales,"Angel List",Decline,0
+3/2016,3,2016,Sales,"Career Site","All Applicants",52
+3/2016,3,2016,Sales,"Career Site","Phone Screen",6
+3/2016,3,2016,Sales,"Career Site",Onsite,3
+3/2016,3,2016,Sales,"Career Site","Final Onsite",1
+3/2016,3,2016,Sales,"Career Site",Offer,1
+3/2016,3,2016,Sales,"Career Site",Accept,1
+3/2016,3,2016,Sales,"Career Site",Decline,0
+3/2016,3,2016,Sales,Outreach,"All Applicants",0
+3/2016,3,2016,Sales,Outreach,"Phone Screen",0
+3/2016,3,2016,Sales,Outreach,Onsite,0
+3/2016,3,2016,Sales,Outreach,"Final Onsite",0
+3/2016,3,2016,Sales,Outreach,Offer,0
+3/2016,3,2016,Sales,Outreach,Accept,0
+3/2016,3,2016,Sales,Outreach,Decline,0
+3/2016,3,2016,Sales,Hired,"All Applicants",2
+3/2016,3,2016,Sales,Hired,"Phone Screen",2
+3/2016,3,2016,Sales,Hired,Onsite,1
+3/2016,3,2016,Sales,Hired,"Final Onsite",0
+3/2016,3,2016,Sales,Hired,Offer,0
+3/2016,3,2016,Sales,Hired,Accept,0
+3/2016,3,2016,Sales,Hired,Decline,0
+3/2016,3,2016,Sales,Gogohire,"All Applicants",4
+3/2016,3,2016,Sales,Gogohire,"Phone Screen",4
+3/2016,3,2016,Sales,Gogohire,Onsite,2
+3/2016,3,2016,Sales,Gogohire,"Final Onsite",0
+3/2016,3,2016,Sales,Gogohire,Offer,0
+3/2016,3,2016,Sales,Gogohire,Accept,0
+3/2016,3,2016,Sales,Gogohire,Decline,0
+3/2016,3,2016,Sales,HireUp,"All Applicants",0
+3/2016,3,2016,Sales,HireUp,"Phone Screen",0
+3/2016,3,2016,Sales,HireUp,Onsite,0
+3/2016,3,2016,Sales,HireUp,"Final Onsite",0
+3/2016,3,2016,Sales,HireUp,Offer,0
+3/2016,3,2016,Sales,HireUp,Accept,0
+3/2016,3,2016,Sales,HireUp,Decline,0
+3/2016,3,2016,Sales,Conferences,"All Applicants",0
+3/2016,3,2016,Sales,Conferences,"Phone Screen",0
+3/2016,3,2016,Sales,Conferences,Onsite,0
+3/2016,3,2016,Sales,Conferences,"Final Onsite",0
+3/2016,3,2016,Sales,Conferences,Offer,0
+3/2016,3,2016,Sales,Conferences,Accept,0
+3/2016,3,2016,Sales,Conferences,Decline,0
+3/2016,3,2016,Engineering,Referral,"All Applicants",0
+3/2016,3,2016,Engineering,Referral,"Phone Screen",0
+3/2016,3,2016,Engineering,Referral,Onsite,0
+3/2016,3,2016,Engineering,Referral,"Final Onsite",0
+3/2016,3,2016,Engineering,Referral,Offer,0
+3/2016,3,2016,Engineering,Referral,Accept,0
+3/2016,3,2016,Engineering,Referral,Decline,0
+3/2016,3,2016,Engineering,"Angel List","All Applicants",4
+3/2016,3,2016,Engineering,"Angel List","Phone Screen",0
+3/2016,3,2016,Engineering,"Angel List",Onsite,0
+3/2016,3,2016,Engineering,"Angel List","Final Onsite",0
+3/2016,3,2016,Engineering,"Angel List",Offer,0
+3/2016,3,2016,Engineering,"Angel List",Accept,0
+3/2016,3,2016,Engineering,"Angel List",Decline,0
+3/2016,3,2016,Engineering,"Career Site","All Applicants",43
+3/2016,3,2016,Engineering,"Career Site","Phone Screen",3
+3/2016,3,2016,Engineering,"Career Site",Onsite,1
+3/2016,3,2016,Engineering,"Career Site","Final Onsite",0
+3/2016,3,2016,Engineering,"Career Site",Offer,0
+3/2016,3,2016,Engineering,"Career Site",Accept,0
+3/2016,3,2016,Engineering,"Career Site",Decline,0
+3/2016,3,2016,Engineering,Outreach,"All Applicants",0
+3/2016,3,2016,Engineering,Outreach,"Phone Screen",0
+3/2016,3,2016,Engineering,Outreach,Onsite,0
+3/2016,3,2016,Engineering,Outreach,"Final Onsite",0
+3/2016,3,2016,Engineering,Outreach,Offer,0
+3/2016,3,2016,Engineering,Outreach,Accept,0
+3/2016,3,2016,Engineering,Outreach,Decline,0
+3/2016,3,2016,Engineering,Hired,"All Applicants",5
+3/2016,3,2016,Engineering,Hired,"Phone Screen",5
+3/2016,3,2016,Engineering,Hired,Onsite,0
+3/2016,3,2016,Engineering,Hired,"Final Onsite",0
+3/2016,3,2016,Engineering,Hired,Offer,0
+3/2016,3,2016,Engineering,Hired,Accept,0
+3/2016,3,2016,Engineering,Hired,Decline,0
+3/2016,3,2016,Engineering,Gogohire,"All Applicants",0
+3/2016,3,2016,Engineering,Gogohire,"Phone Screen",0
+3/2016,3,2016,Engineering,Gogohire,Onsite,0
+3/2016,3,2016,Engineering,Gogohire,"Final Onsite",0
+3/2016,3,2016,Engineering,Gogohire,Offer,0
+3/2016,3,2016,Engineering,Gogohire,Accept,0
+3/2016,3,2016,Engineering,Gogohire,Decline,0
+3/2016,3,2016,Engineering,HireUp,"All Applicants",4
+3/2016,3,2016,Engineering,HireUp,"Phone Screen",4
+3/2016,3,2016,Engineering,HireUp,Onsite,1
+3/2016,3,2016,Engineering,HireUp,"Final Onsite",0
+3/2016,3,2016,Engineering,HireUp,Offer,0
+3/2016,3,2016,Engineering,HireUp,Accept,0
+3/2016,3,2016,Engineering,HireUp,Decline,0
+3/2016,3,2016,Engineering,Conferences,"All Applicants",0
+3/2016,3,2016,Engineering,Conferences,"Phone Screen",0
+3/2016,3,2016,Engineering,Conferences,Onsite,0
+3/2016,3,2016,Engineering,Conferences,"Final Onsite",0
+3/2016,3,2016,Engineering,Conferences,Offer,0
+3/2016,3,2016,Engineering,Conferences,Accept,0
+3/2016,3,2016,Engineering,Conferences,Decline,0
+3/2016,3,2016,CSM,Referral,"All Applicants",0
+3/2016,3,2016,CSM,Referral,"Phone Screen",0
+3/2016,3,2016,CSM,Referral,Onsite,0
+3/2016,3,2016,CSM,Referral,"Final Onsite",0
+3/2016,3,2016,CSM,Referral,Offer,0
+3/2016,3,2016,CSM,Referral,Accept,0
+3/2016,3,2016,CSM,Referral,Decline,0
+3/2016,3,2016,CSM,"Angel List","All Applicants",7
+3/2016,3,2016,CSM,"Angel List","Phone Screen",1
+3/2016,3,2016,CSM,"Angel List",Onsite,1
+3/2016,3,2016,CSM,"Angel List","Final Onsite",1
+3/2016,3,2016,CSM,"Angel List",Offer,0
+3/2016,3,2016,CSM,"Angel List",Accept,0
+3/2016,3,2016,CSM,"Angel List",Decline,0
+3/2016,3,2016,CSM,"Career Site","All Applicants",32
+3/2016,3,2016,CSM,"Career Site","Phone Screen",1
+3/2016,3,2016,CSM,"Career Site",Onsite,0
+3/2016,3,2016,CSM,"Career Site","Final Onsite",0
+3/2016,3,2016,CSM,"Career Site",Offer,0
+3/2016,3,2016,CSM,"Career Site",Accept,0
+3/2016,3,2016,CSM,"Career Site",Decline,0
+3/2016,3,2016,CSM,Outreach,"All Applicants",0
+3/2016,3,2016,CSM,Outreach,"Phone Screen",0
+3/2016,3,2016,CSM,Outreach,Onsite,0
+3/2016,3,2016,CSM,Outreach,"Final Onsite",0
+3/2016,3,2016,CSM,Outreach,Offer,0
+3/2016,3,2016,CSM,Outreach,Accept,0
+3/2016,3,2016,CSM,Outreach,Decline,0
+3/2016,3,2016,CSM,Hired,"All Applicants",0
+3/2016,3,2016,CSM,Hired,"Phone Screen",0
+3/2016,3,2016,CSM,Hired,Onsite,0
+3/2016,3,2016,CSM,Hired,"Final Onsite",0
+3/2016,3,2016,CSM,Hired,Offer,0
+3/2016,3,2016,CSM,Hired,Accept,0
+3/2016,3,2016,CSM,Hired,Decline,0
+3/2016,3,2016,CSM,Gogohire,"All Applicants",2
+3/2016,3,2016,CSM,Gogohire,"Phone Screen",2
+3/2016,3,2016,CSM,Gogohire,Onsite,0
+3/2016,3,2016,CSM,Gogohire,"Final Onsite",0
+3/2016,3,2016,CSM,Gogohire,Offer,0
+3/2016,3,2016,CSM,Gogohire,Accept,0
+3/2016,3,2016,CSM,Gogohire,Decline,0
+3/2016,3,2016,CSM,HireUp,"All Applicants",0
+3/2016,3,2016,CSM,HireUp,"Phone Screen",0
+3/2016,3,2016,CSM,HireUp,Onsite,0
+3/2016,3,2016,CSM,HireUp,"Final Onsite",0
+3/2016,3,2016,CSM,HireUp,Offer,0
+3/2016,3,2016,CSM,HireUp,Accept,0
+3/2016,3,2016,CSM,HireUp,Decline,0
+3/2016,3,2016,CSM,Conferences,"All Applicants",0
+3/2016,3,2016,CSM,Conferences,"Phone Screen",0
+3/2016,3,2016,CSM,Conferences,Onsite,0
+3/2016,3,2016,CSM,Conferences,"Final Onsite",0
+3/2016,3,2016,CSM,Conferences,Offer,0
+3/2016,3,2016,CSM,Conferences,Accept,0
+3/2016,3,2016,CSM,Conferences,Decline,0
+3/2016,3,2016,Interns,Referral,"All Applicants",0
+3/2016,3,2016,Interns,Referral,"Phone Screen",0
+3/2016,3,2016,Interns,Referral,Onsite,0
+3/2016,3,2016,Interns,Referral,"Final Onsite",0
+3/2016,3,2016,Interns,Referral,Offer,0
+3/2016,3,2016,Interns,Referral,Accept,0
+3/2016,3,2016,Interns,Referral,Decline,0
+3/2016,3,2016,Interns,"Angel List","All Applicants",0
+3/2016,3,2016,Interns,"Angel List","Phone Screen",0
+3/2016,3,2016,Interns,"Angel List",Onsite,0
+3/2016,3,2016,Interns,"Angel List","Final Onsite",0
+3/2016,3,2016,Interns,"Angel List",Offer,0
+3/2016,3,2016,Interns,"Angel List",Accept,0
+3/2016,3,2016,Interns,"Angel List",Decline,0
+3/2016,3,2016,Interns,"Career Site","All Applicants",0
+3/2016,3,2016,Interns,"Career Site","Phone Screen",0
+3/2016,3,2016,Interns,"Career Site",Onsite,0
+3/2016,3,2016,Interns,"Career Site","Final Onsite",0
+3/2016,3,2016,Interns,"Career Site",Offer,0
+3/2016,3,2016,Interns,"Career Site",Accept,0
+3/2016,3,2016,Interns,"Career Site",Decline,0
+3/2016,3,2016,Interns,Outreach,"All Applicants",0
+3/2016,3,2016,Interns,Outreach,"Phone Screen",0
+3/2016,3,2016,Interns,Outreach,Onsite,0
+3/2016,3,2016,Interns,Outreach,"Final Onsite",0
+3/2016,3,2016,Interns,Outreach,Offer,0
+3/2016,3,2016,Interns,Outreach,Accept,0
+3/2016,3,2016,Interns,Outreach,Decline,0
+3/2016,3,2016,Interns,Hired,"All Applicants",0
+3/2016,3,2016,Interns,Hired,"Phone Screen",0
+3/2016,3,2016,Interns,Hired,Onsite,0
+3/2016,3,2016,Interns,Hired,"Final Onsite",0
+3/2016,3,2016,Interns,Hired,Offer,0
+3/2016,3,2016,Interns,Hired,Accept,0
+3/2016,3,2016,Interns,Hired,Decline,0
+3/2016,3,2016,Interns,Gogohire,"All Applicants",0
+3/2016,3,2016,Interns,Gogohire,"Phone Screen",0
+3/2016,3,2016,Interns,Gogohire,Onsite,0
+3/2016,3,2016,Interns,Gogohire,"Final Onsite",0
+3/2016,3,2016,Interns,Gogohire,Offer,0
+3/2016,3,2016,Interns,Gogohire,Accept,0
+3/2016,3,2016,Interns,Gogohire,Decline,0
+3/2016,3,2016,Interns,HireUp,"All Applicants",0
+3/2016,3,2016,Interns,HireUp,"Phone Screen",0
+3/2016,3,2016,Interns,HireUp,Onsite,0
+3/2016,3,2016,Interns,HireUp,"Final Onsite",0
+3/2016,3,2016,Interns,HireUp,Offer,0
+3/2016,3,2016,Interns,HireUp,Accept,0
+3/2016,3,2016,Interns,HireUp,Decline,0
+3/2016,3,2016,Interns,Conferences,"All Applicants",0
+3/2016,3,2016,Interns,Conferences,"Phone Screen",0
+3/2016,3,2016,Interns,Conferences,Onsite,0
+3/2016,3,2016,Interns,Conferences,"Final Onsite",0
+3/2016,3,2016,Interns,Conferences,Offer,0
+3/2016,3,2016,Interns,Conferences,Accept,0
+3/2016,3,2016,Interns,Conferences,Decline,0
+2/2016,2,2016,Sales,Referral,"All Applicants",2
+2/2016,2,2016,Sales,Referral,"Phone Screen",2
+2/2016,2,2016,Sales,Referral,Onsite,1
+2/2016,2,2016,Sales,Referral,"Final Onsite",1
+2/2016,2,2016,Sales,Referral,Offer,0
+2/2016,2,2016,Sales,Referral,Accept,0
+2/2016,2,2016,Sales,Referral,Decline,0
+2/2016,2,2016,Sales,"Angel List","All Applicants",15
+2/2016,2,2016,Sales,"Angel List","Phone Screen",1
+2/2016,2,2016,Sales,"Angel List",Onsite,0
+2/2016,2,2016,Sales,"Angel List","Final Onsite",0
+2/2016,2,2016,Sales,"Angel List",Offer,0
+2/2016,2,2016,Sales,"Angel List",Accept,0
+2/2016,2,2016,Sales,"Angel List",Decline,0
+2/2016,2,2016,Sales,"Career Site","All Applicants",51
+2/2016,2,2016,Sales,"Career Site","Phone Screen",1
+2/2016,2,2016,Sales,"Career Site",Onsite,0
+2/2016,2,2016,Sales,"Career Site","Final Onsite",0
+2/2016,2,2016,Sales,"Career Site",Offer,0
+2/2016,2,2016,Sales,"Career Site",Accept,0
+2/2016,2,2016,Sales,"Career Site",Decline,0
+2/2016,2,2016,Sales,Outreach,"All Applicants",0
+2/2016,2,2016,Sales,Outreach,"Phone Screen",0
+2/2016,2,2016,Sales,Outreach,Onsite,0
+2/2016,2,2016,Sales,Outreach,"Final Onsite",0
+2/2016,2,2016,Sales,Outreach,Offer,1
+2/2016,2,2016,Sales,Outreach,Accept,0
+2/2016,2,2016,Sales,Outreach,Decline,0
+2/2016,2,2016,Sales,Hired,"All Applicants",1
+2/2016,2,2016,Sales,Hired,"Phone Screen",1
+2/2016,2,2016,Sales,Hired,Onsite,0
+2/2016,2,2016,Sales,Hired,"Final Onsite",0
+2/2016,2,2016,Sales,Hired,Offer,0
+2/2016,2,2016,Sales,Hired,Accept,0
+2/2016,2,2016,Sales,Hired,Decline,0
+2/2016,2,2016,Sales,Gogohire,"All Applicants",3
+2/2016,2,2016,Sales,Gogohire,"Phone Screen",3
+2/2016,2,2016,Sales,Gogohire,Onsite,1
+2/2016,2,2016,Sales,Gogohire,"Final Onsite",1
+2/2016,2,2016,Sales,Gogohire,Offer,1
+2/2016,2,2016,Sales,Gogohire,Accept,0
+2/2016,2,2016,Sales,Gogohire,Decline,0
+2/2016,2,2016,Sales,HireUp,"All Applicants",0
+2/2016,2,2016,Sales,HireUp,"Phone Screen",0
+2/2016,2,2016,Sales,HireUp,Onsite,0
+2/2016,2,2016,Sales,HireUp,"Final Onsite",0
+2/2016,2,2016,Sales,HireUp,Offer,0
+2/2016,2,2016,Sales,HireUp,Accept,0
+2/2016,2,2016,Sales,HireUp,Decline,0
+2/2016,2,2016,Sales,Conferences,"All Applicants",0
+2/2016,2,2016,Sales,Conferences,"Phone Screen",0
+2/2016,2,2016,Sales,Conferences,Onsite,0
+2/2016,2,2016,Sales,Conferences,"Final Onsite",0
+2/2016,2,2016,Sales,Conferences,Offer,0
+2/2016,2,2016,Sales,Conferences,Accept,0
+2/2016,2,2016,Sales,Conferences,Decline,0
+2/2016,2,2016,Engineering,Referral,"All Applicants",3
+2/2016,2,2016,Engineering,Referral,"Phone Screen",2
+2/2016,2,2016,Engineering,Referral,Onsite,0
+2/2016,2,2016,Engineering,Referral,"Final Onsite",0
+2/2016,2,2016,Engineering,Referral,Offer,1
+2/2016,2,2016,Engineering,Referral,Accept,1
+2/2016,2,2016,Engineering,Referral,Decline,0
+2/2016,2,2016,Engineering,"Angel List","All Applicants",9
+2/2016,2,2016,Engineering,"Angel List","Phone Screen",0
+2/2016,2,2016,Engineering,"Angel List",Onsite,0
+2/2016,2,2016,Engineering,"Angel List","Final Onsite",0
+2/2016,2,2016,Engineering,"Angel List",Offer,0
+2/2016,2,2016,Engineering,"Angel List",Accept,0
+2/2016,2,2016,Engineering,"Angel List",Decline,0
+2/2016,2,2016,Engineering,"Career Site","All Applicants",38
+2/2016,2,2016,Engineering,"Career Site","Phone Screen",3
+2/2016,2,2016,Engineering,"Career Site",Onsite,2
+2/2016,2,2016,Engineering,"Career Site","Final Onsite",1
+2/2016,2,2016,Engineering,"Career Site",Offer,1
+2/2016,2,2016,Engineering,"Career Site",Accept,1
+2/2016,2,2016,Engineering,"Career Site",Decline,0
+2/2016,2,2016,Engineering,Outreach,"All Applicants",484
+2/2016,2,2016,Engineering,Outreach,"Phone Screen",3
+2/2016,2,2016,Engineering,Outreach,Onsite,0
+2/2016,2,2016,Engineering,Outreach,"Final Onsite",0
+2/2016,2,2016,Engineering,Outreach,Offer,0
+2/2016,2,2016,Engineering,Outreach,Accept,0
+2/2016,2,2016,Engineering,Outreach,Decline,0
+2/2016,2,2016,Engineering,Hired,"All Applicants",6
+2/2016,2,2016,Engineering,Hired,"Phone Screen",5
+2/2016,2,2016,Engineering,Hired,Onsite,0
+2/2016,2,2016,Engineering,Hired,"Final Onsite",0
+2/2016,2,2016,Engineering,Hired,Offer,0
+2/2016,2,2016,Engineering,Hired,Accept,0
+2/2016,2,2016,Engineering,Hired,Decline,0
+2/2016,2,2016,Engineering,Gogohire,"All Applicants",0
+2/2016,2,2016,Engineering,Gogohire,"Phone Screen",0
+2/2016,2,2016,Engineering,Gogohire,Onsite,0
+2/2016,2,2016,Engineering,Gogohire,"Final Onsite",0
+2/2016,2,2016,Engineering,Gogohire,Offer,0
+2/2016,2,2016,Engineering,Gogohire,Accept,0
+2/2016,2,2016,Engineering,Gogohire,Decline,0
+2/2016,2,2016,Engineering,HireUp,"All Applicants",0
+2/2016,2,2016,Engineering,HireUp,"Phone Screen",0
+2/2016,2,2016,Engineering,HireUp,Onsite,0
+2/2016,2,2016,Engineering,HireUp,"Final Onsite",0
+2/2016,2,2016,Engineering,HireUp,Offer,0
+2/2016,2,2016,Engineering,HireUp,Accept,0
+2/2016,2,2016,Engineering,HireUp,Decline,0
+2/2016,2,2016,Engineering,Conferences,"All Applicants",1
+2/2016,2,2016,Engineering,Conferences,"Phone Screen",1
+2/2016,2,2016,Engineering,Conferences,Onsite,1
+2/2016,2,2016,Engineering,Conferences,"Final Onsite",0
+2/2016,2,2016,Engineering,Conferences,Offer,0
+2/2016,2,2016,Engineering,Conferences,Accept,0
+2/2016,2,2016,Engineering,Conferences,Decline,0
+2/2016,2,2016,CSM,Referral,"All Applicants",3
+2/2016,2,2016,CSM,Referral,"Phone Screen",3
+2/2016,2,2016,CSM,Referral,Onsite,1
+2/2016,2,2016,CSM,Referral,"Final Onsite",1
+2/2016,2,2016,CSM,Referral,Offer,0
+2/2016,2,2016,CSM,Referral,Accept,0
+2/2016,2,2016,CSM,Referral,Decline,0
+2/2016,2,2016,CSM,"Angel List","All Applicants",9
+2/2016,2,2016,CSM,"Angel List","Phone Screen",3
+2/2016,2,2016,CSM,"Angel List",Onsite,1
+2/2016,2,2016,CSM,"Angel List","Final Onsite",0
+2/2016,2,2016,CSM,"Angel List",Offer,0
+2/2016,2,2016,CSM,"Angel List",Accept,0
+2/2016,2,2016,CSM,"Angel List",Decline,0
+2/2016,2,2016,CSM,"Career Site","All Applicants",43
+2/2016,2,2016,CSM,"Career Site","Phone Screen",0
+2/2016,2,2016,CSM,"Career Site",Onsite,0
+2/2016,2,2016,CSM,"Career Site","Final Onsite",0
+2/2016,2,2016,CSM,"Career Site",Offer,0
+2/2016,2,2016,CSM,"Career Site",Accept,0
+2/2016,2,2016,CSM,"Career Site",Decline,0
+2/2016,2,2016,CSM,Outreach,"All Applicants",20
+2/2016,2,2016,CSM,Outreach,"Phone Screen",1
+2/2016,2,2016,CSM,Outreach,Onsite,0
+2/2016,2,2016,CSM,Outreach,"Final Onsite",0
+2/2016,2,2016,CSM,Outreach,Offer,0
+2/2016,2,2016,CSM,Outreach,Accept,0
+2/2016,2,2016,CSM,Outreach,Decline,0
+2/2016,2,2016,CSM,Hired,"All Applicants",2
+2/2016,2,2016,CSM,Hired,"Phone Screen",2
+2/2016,2,2016,CSM,Hired,Onsite,2
+2/2016,2,2016,CSM,Hired,"Final Onsite",1
+2/2016,2,2016,CSM,Hired,Offer,0
+2/2016,2,2016,CSM,Hired,Accept,0
+2/2016,2,2016,CSM,Hired,Decline,0
+2/2016,2,2016,CSM,Gogohire,"All Applicants",1
+2/2016,2,2016,CSM,Gogohire,"Phone Screen",1
+2/2016,2,2016,CSM,Gogohire,Onsite,0
+2/2016,2,2016,CSM,Gogohire,"Final Onsite",0
+2/2016,2,2016,CSM,Gogohire,Offer,0
+2/2016,2,2016,CSM,Gogohire,Accept,0
+2/2016,2,2016,CSM,Gogohire,Decline,0
+2/2016,2,2016,CSM,HireUp,"All Applicants",0
+2/2016,2,2016,CSM,HireUp,"Phone Screen",0
+2/2016,2,2016,CSM,HireUp,Onsite,0
+2/2016,2,2016,CSM,HireUp,"Final Onsite",0
+2/2016,2,2016,CSM,HireUp,Offer,0
+2/2016,2,2016,CSM,HireUp,Accept,0
+2/2016,2,2016,CSM,HireUp,Decline,0
+2/2016,2,2016,CSM,Conferences,"All Applicants",1
+2/2016,2,2016,CSM,Conferences,"Phone Screen",1
+2/2016,2,2016,CSM,Conferences,Onsite,1
+2/2016,2,2016,CSM,Conferences,"Final Onsite",0
+2/2016,2,2016,CSM,Conferences,Offer,0
+2/2016,2,2016,CSM,Conferences,Accept,0
+2/2016,2,2016,CSM,Conferences,Decline,0
+2/2016,2,2016,Interns,Referral,"All Applicants",0
+2/2016,2,2016,Interns,Referral,"Phone Screen",0
+2/2016,2,2016,Interns,Referral,Onsite,0
+2/2016,2,2016,Interns,Referral,"Final Onsite",0
+2/2016,2,2016,Interns,Referral,Offer,0
+2/2016,2,2016,Interns,Referral,Accept,0
+2/2016,2,2016,Interns,Referral,Decline,0
+2/2016,2,2016,Interns,"Angel List","All Applicants",0
+2/2016,2,2016,Interns,"Angel List","Phone Screen",0
+2/2016,2,2016,Interns,"Angel List",Onsite,0
+2/2016,2,2016,Interns,"Angel List","Final Onsite",0
+2/2016,2,2016,Interns,"Angel List",Offer,0
+2/2016,2,2016,Interns,"Angel List",Accept,0
+2/2016,2,2016,Interns,"Angel List",Decline,0
+2/2016,2,2016,Interns,"Career Site","All Applicants",0
+2/2016,2,2016,Interns,"Career Site","Phone Screen",0
+2/2016,2,2016,Interns,"Career Site",Onsite,0
+2/2016,2,2016,Interns,"Career Site","Final Onsite",0
+2/2016,2,2016,Interns,"Career Site",Offer,0
+2/2016,2,2016,Interns,"Career Site",Accept,0
+2/2016,2,2016,Interns,"Career Site",Decline,0
+2/2016,2,2016,Interns,Outreach,"All Applicants",0
+2/2016,2,2016,Interns,Outreach,"Phone Screen",0
+2/2016,2,2016,Interns,Outreach,Onsite,0
+2/2016,2,2016,Interns,Outreach,"Final Onsite",0
+2/2016,2,2016,Interns,Outreach,Offer,0
+2/2016,2,2016,Interns,Outreach,Accept,0
+2/2016,2,2016,Interns,Outreach,Decline,0
+2/2016,2,2016,Interns,Hired,"All Applicants",0
+2/2016,2,2016,Interns,Hired,"Phone Screen",0
+2/2016,2,2016,Interns,Hired,Onsite,0
+2/2016,2,2016,Interns,Hired,"Final Onsite",0
+2/2016,2,2016,Interns,Hired,Offer,0
+2/2016,2,2016,Interns,Hired,Accept,0
+2/2016,2,2016,Interns,Hired,Decline,0
+2/2016,2,2016,Interns,Gogohire,"All Applicants",0
+2/2016,2,2016,Interns,Gogohire,"Phone Screen",0
+2/2016,2,2016,Interns,Gogohire,Onsite,0
+2/2016,2,2016,Interns,Gogohire,"Final Onsite",0
+2/2016,2,2016,Interns,Gogohire,Offer,0
+2/2016,2,2016,Interns,Gogohire,Accept,0
+2/2016,2,2016,Interns,Gogohire,Decline,0
+2/2016,2,2016,Interns,HireUp,"All Applicants",0
+2/2016,2,2016,Interns,HireUp,"Phone Screen",0
+2/2016,2,2016,Interns,HireUp,Onsite,0
+2/2016,2,2016,Interns,HireUp,"Final Onsite",0
+2/2016,2,2016,Interns,HireUp,Offer,0
+2/2016,2,2016,Interns,HireUp,Accept,0
+2/2016,2,2016,Interns,HireUp,Decline,0
+2/2016,2,2016,Interns,Conferences,"All Applicants",0
+2/2016,2,2016,Interns,Conferences,"Phone Screen",0
+2/2016,2,2016,Interns,Conferences,Onsite,0
+2/2016,2,2016,Interns,Conferences,"Final Onsite",0
+2/2016,2,2016,Interns,Conferences,Offer,0
+2/2016,2,2016,Interns,Conferences,Accept,0
+2/2016,2,2016,Interns,Conferences,Decline,0
+1/2016,1,2016,Sales,Referral,"All Applicants",3
+1/2016,1,2016,Sales,Referral,"Phone Screen",2
+1/2016,1,2016,Sales,Referral,Onsite,1
+1/2016,1,2016,Sales,Referral,"Final Onsite",0
+1/2016,1,2016,Sales,Referral,Offer,0
+1/2016,1,2016,Sales,Referral,Accept,0
+1/2016,1,2016,Sales,Referral,Decline,0
+1/2016,1,2016,Sales,"Angel List","All Applicants",10
+1/2016,1,2016,Sales,"Angel List","Phone Screen",2
+1/2016,1,2016,Sales,"Angel List",Onsite,1
+1/2016,1,2016,Sales,"Angel List","Final Onsite",1
+1/2016,1,2016,Sales,"Angel List",Offer,0
+1/2016,1,2016,Sales,"Angel List",Accept,0
+1/2016,1,2016,Sales,"Angel List",Decline,0
+1/2016,1,2016,Sales,"Career Site","All Applicants",40
+1/2016,1,2016,Sales,"Career Site","Phone Screen",8
+1/2016,1,2016,Sales,"Career Site",Onsite,5
+1/2016,1,2016,Sales,"Career Site","Final Onsite",0
+1/2016,1,2016,Sales,"Career Site",Offer,0
+1/2016,1,2016,Sales,"Career Site",Accept,0
+1/2016,1,2016,Sales,"Career Site",Decline,0
+1/2016,1,2016,Sales,Outreach,"All Applicants",57
+1/2016,1,2016,Sales,Outreach,"Phone Screen",3
+1/2016,1,2016,Sales,Outreach,Onsite,2
+1/2016,1,2016,Sales,Outreach,"Final Onsite",2
+1/2016,1,2016,Sales,Outreach,Offer,0
+1/2016,1,2016,Sales,Outreach,Accept,0
+1/2016,1,2016,Sales,Outreach,Decline,0
+1/2016,1,2016,Sales,Hired,"All Applicants",3
+1/2016,1,2016,Sales,Hired,"Phone Screen",3
+1/2016,1,2016,Sales,Hired,Onsite,0
+1/2016,1,2016,Sales,Hired,"Final Onsite",0
+1/2016,1,2016,Sales,Hired,Offer,0
+1/2016,1,2016,Sales,Hired,Accept,0
+1/2016,1,2016,Sales,Hired,Decline,0
+1/2016,1,2016,Sales,Gogohire,"All Applicants",5
+1/2016,1,2016,Sales,Gogohire,"Phone Screen",5
+1/2016,1,2016,Sales,Gogohire,Onsite,3
+1/2016,1,2016,Sales,Gogohire,"Final Onsite",0
+1/2016,1,2016,Sales,Gogohire,Offer,0
+1/2016,1,2016,Sales,Gogohire,Accept,0
+1/2016,1,2016,Sales,Gogohire,Decline,0
+1/2016,1,2016,Sales,HireUp,"All Applicants",0
+1/2016,1,2016,Sales,HireUp,"Phone Screen",0
+1/2016,1,2016,Sales,HireUp,Onsite,0
+1/2016,1,2016,Sales,HireUp,"Final Onsite",0
+1/2016,1,2016,Sales,HireUp,Offer,0
+1/2016,1,2016,Sales,HireUp,Accept,0
+1/2016,1,2016,Sales,HireUp,Decline,0
+1/2016,1,2016,Sales,Conferences,"All Applicants",1
+1/2016,1,2016,Sales,Conferences,"Phone Screen",1
+1/2016,1,2016,Sales,Conferences,Onsite,1
+1/2016,1,2016,Sales,Conferences,"Final Onsite",1
+1/2016,1,2016,Sales,Conferences,Offer,0
+1/2016,1,2016,Sales,Conferences,Accept,0
+1/2016,1,2016,Sales,Conferences,Decline,0
+1/2016,1,2016,Engineering,Referral,"All Applicants",0
+1/2016,1,2016,Engineering,Referral,"Phone Screen",0
+1/2016,1,2016,Engineering,Referral,Onsite,0
+1/2016,1,2016,Engineering,Referral,"Final Onsite",0
+1/2016,1,2016,Engineering,Referral,Offer,0
+1/2016,1,2016,Engineering,Referral,Accept,0
+1/2016,1,2016,Engineering,Referral,Decline,0
+1/2016,1,2016,Engineering,"Angel List","All Applicants",8
+1/2016,1,2016,Engineering,"Angel List","Phone Screen",0
+1/2016,1,2016,Engineering,"Angel List",Onsite,0
+1/2016,1,2016,Engineering,"Angel List","Final Onsite",0
+1/2016,1,2016,Engineering,"Angel List",Offer,0
+1/2016,1,2016,Engineering,"Angel List",Accept,0
+1/2016,1,2016,Engineering,"Angel List",Decline,0
+1/2016,1,2016,Engineering,"Career Site","All Applicants",44
+1/2016,1,2016,Engineering,"Career Site","Phone Screen",4
+1/2016,1,2016,Engineering,"Career Site",Onsite,2
+1/2016,1,2016,Engineering,"Career Site","Final Onsite",2
+1/2016,1,2016,Engineering,"Career Site",Offer,0
+1/2016,1,2016,Engineering,"Career Site",Accept,0
+1/2016,1,2016,Engineering,"Career Site",Decline,0
+1/2016,1,2016,Engineering,Outreach,"All Applicants",475
+1/2016,1,2016,Engineering,Outreach,"Phone Screen",3
+1/2016,1,2016,Engineering,Outreach,Onsite,0
+1/2016,1,2016,Engineering,Outreach,"Final Onsite",0
+1/2016,1,2016,Engineering,Outreach,Offer,0
+1/2016,1,2016,Engineering,Outreach,Accept,0
+1/2016,1,2016,Engineering,Outreach,Decline,0
+1/2016,1,2016,Engineering,Hired,"All Applicants",14
+1/2016,1,2016,Engineering,Hired,"Phone Screen",14
+1/2016,1,2016,Engineering,Hired,Onsite,3
+1/2016,1,2016,Engineering,Hired,"Final Onsite",1
+1/2016,1,2016,Engineering,Hired,Offer,1
+1/2016,1,2016,Engineering,Hired,Accept,1
+1/2016,1,2016,Engineering,Hired,Decline,0
+1/2016,1,2016,Engineering,Gogohire,"All Applicants",0
+1/2016,1,2016,Engineering,Gogohire,"Phone Screen",0
+1/2016,1,2016,Engineering,Gogohire,Onsite,0
+1/2016,1,2016,Engineering,Gogohire,"Final Onsite",0
+1/2016,1,2016,Engineering,Gogohire,Offer,0
+1/2016,1,2016,Engineering,Gogohire,Accept,0
+1/2016,1,2016,Engineering,Gogohire,Decline,0
+1/2016,1,2016,Engineering,HireUp,"All Applicants",0
+1/2016,1,2016,Engineering,HireUp,"Phone Screen",0
+1/2016,1,2016,Engineering,HireUp,Onsite,0
+1/2016,1,2016,Engineering,HireUp,"Final Onsite",0
+1/2016,1,2016,Engineering,HireUp,Offer,0
+1/2016,1,2016,Engineering,HireUp,Accept,0
+1/2016,1,2016,Engineering,HireUp,Decline,0
+1/2016,1,2016,Engineering,Conferences,"All Applicants",5
+1/2016,1,2016,Engineering,Conferences,"Phone Screen",4
+1/2016,1,2016,Engineering,Conferences,Onsite,0
+1/2016,1,2016,Engineering,Conferences,"Final Onsite",0
+1/2016,1,2016,Engineering,Conferences,Offer,0
+1/2016,1,2016,Engineering,Conferences,Accept,0
+1/2016,1,2016,Engineering,Conferences,Decline,0
+1/2016,1,2016,CSM,Referral,"All Applicants",10
+1/2016,1,2016,CSM,Referral,"Phone Screen",5
+1/2016,1,2016,CSM,Referral,Onsite,2
+1/2016,1,2016,CSM,Referral,"Final Onsite",0
+1/2016,1,2016,CSM,Referral,Offer,0
+1/2016,1,2016,CSM,Referral,Accept,0
+1/2016,1,2016,CSM,Referral,Decline,0
+1/2016,1,2016,CSM,"Angel List","All Applicants",5
+1/2016,1,2016,CSM,"Angel List","Phone Screen",0
+1/2016,1,2016,CSM,"Angel List",Onsite,0
+1/2016,1,2016,CSM,"Angel List","Final Onsite",0
+1/2016,1,2016,CSM,"Angel List",Offer,0
+1/2016,1,2016,CSM,"Angel List",Accept,0
+1/2016,1,2016,CSM,"Angel List",Decline,0
+1/2016,1,2016,CSM,"Career Site","All Applicants",30
+1/2016,1,2016,CSM,"Career Site","Phone Screen",3
+1/2016,1,2016,CSM,"Career Site",Onsite,0
+1/2016,1,2016,CSM,"Career Site","Final Onsite",0
+1/2016,1,2016,CSM,"Career Site",Offer,0
+1/2016,1,2016,CSM,"Career Site",Accept,0
+1/2016,1,2016,CSM,"Career Site",Decline,0
+1/2016,1,2016,CSM,Outreach,"All Applicants",1
+1/2016,1,2016,CSM,Outreach,"Phone Screen",1
+1/2016,1,2016,CSM,Outreach,Onsite,1
+1/2016,1,2016,CSM,Outreach,"Final Onsite",0
+1/2016,1,2016,CSM,Outreach,Offer,0
+1/2016,1,2016,CSM,Outreach,Accept,0
+1/2016,1,2016,CSM,Outreach,Decline,0
+1/2016,1,2016,CSM,Hired,"All Applicants",3
+1/2016,1,2016,CSM,Hired,"Phone Screen",2
+1/2016,1,2016,CSM,Hired,Onsite,1
+1/2016,1,2016,CSM,Hired,"Final Onsite",0
+1/2016,1,2016,CSM,Hired,Offer,0
+1/2016,1,2016,CSM,Hired,Accept,0
+1/2016,1,2016,CSM,Hired,Decline,0
+1/2016,1,2016,CSM,Gogohire,"All Applicants",4
+1/2016,1,2016,CSM,Gogohire,"Phone Screen",4
+1/2016,1,2016,CSM,Gogohire,Onsite,2
+1/2016,1,2016,CSM,Gogohire,"Final Onsite",2
+1/2016,1,2016,CSM,Gogohire,Offer,1
+1/2016,1,2016,CSM,Gogohire,Accept,1
+1/2016,1,2016,CSM,Gogohire,Decline,0
+1/2016,1,2016,CSM,HireUp,"All Applicants",0
+1/2016,1,2016,CSM,HireUp,"Phone Screen",0
+1/2016,1,2016,CSM,HireUp,Onsite,0
+1/2016,1,2016,CSM,HireUp,"Final Onsite",0
+1/2016,1,2016,CSM,HireUp,Offer,0
+1/2016,1,2016,CSM,HireUp,Accept,0
+1/2016,1,2016,CSM,HireUp,Decline,0
+1/2016,1,2016,CSM,Conferences,"All Applicants",0
+1/2016,1,2016,CSM,Conferences,"Phone Screen",0
+1/2016,1,2016,CSM,Conferences,Onsite,0
+1/2016,1,2016,CSM,Conferences,"Final Onsite",0
+1/2016,1,2016,CSM,Conferences,Offer,0
+1/2016,1,2016,CSM,Conferences,Accept,0
+1/2016,1,2016,CSM,Conferences,Decline,0
+1/2016,1,2016,Interns,Referral,"All Applicants",0
+1/2016,1,2016,Interns,Referral,"Phone Screen",0
+1/2016,1,2016,Interns,Referral,Onsite,0
+1/2016,1,2016,Interns,Referral,"Final Onsite",0
+1/2016,1,2016,Interns,Referral,Offer,0
+1/2016,1,2016,Interns,Referral,Accept,0
+1/2016,1,2016,Interns,Referral,Decline,0
+1/2016,1,2016,Interns,"Angel List","All Applicants",0
+1/2016,1,2016,Interns,"Angel List","Phone Screen",0
+1/2016,1,2016,Interns,"Angel List",Onsite,0
+1/2016,1,2016,Interns,"Angel List","Final Onsite",0
+1/2016,1,2016,Interns,"Angel List",Offer,0
+1/2016,1,2016,Interns,"Angel List",Accept,0
+1/2016,1,2016,Interns,"Angel List",Decline,0
+1/2016,1,2016,Interns,"Career Site","All Applicants",0
+1/2016,1,2016,Interns,"Career Site","Phone Screen",0
+1/2016,1,2016,Interns,"Career Site",Onsite,0
+1/2016,1,2016,Interns,"Career Site","Final Onsite",0
+1/2016,1,2016,Interns,"Career Site",Offer,0
+1/2016,1,2016,Interns,"Career Site",Accept,0
+1/2016,1,2016,Interns,"Career Site",Decline,0
+1/2016,1,2016,Interns,Outreach,"All Applicants",0
+1/2016,1,2016,Interns,Outreach,"Phone Screen",0
+1/2016,1,2016,Interns,Outreach,Onsite,0
+1/2016,1,2016,Interns,Outreach,"Final Onsite",0
+1/2016,1,2016,Interns,Outreach,Offer,0
+1/2016,1,2016,Interns,Outreach,Accept,0
+1/2016,1,2016,Interns,Outreach,Decline,0
+1/2016,1,2016,Interns,Hired,"All Applicants",0
+1/2016,1,2016,Interns,Hired,"Phone Screen",0
+1/2016,1,2016,Interns,Hired,Onsite,0
+1/2016,1,2016,Interns,Hired,"Final Onsite",0
+1/2016,1,2016,Interns,Hired,Offer,0
+1/2016,1,2016,Interns,Hired,Accept,0
+1/2016,1,2016,Interns,Hired,Decline,0
+1/2016,1,2016,Interns,Gogohire,"All Applicants",0
+1/2016,1,2016,Interns,Gogohire,"Phone Screen",0
+1/2016,1,2016,Interns,Gogohire,Onsite,0
+1/2016,1,2016,Interns,Gogohire,"Final Onsite",0
+1/2016,1,2016,Interns,Gogohire,Offer,0
+1/2016,1,2016,Interns,Gogohire,Accept,0
+1/2016,1,2016,Interns,Gogohire,Decline,0
+1/2016,1,2016,Interns,HireUp,"All Applicants",0
+1/2016,1,2016,Interns,HireUp,"Phone Screen",0
+1/2016,1,2016,Interns,HireUp,Onsite,0
+1/2016,1,2016,Interns,HireUp,"Final Onsite",0
+1/2016,1,2016,Interns,HireUp,Offer,0
+1/2016,1,2016,Interns,HireUp,Accept,0
+1/2016,1,2016,Interns,HireUp,Decline,0
+1/2016,1,2016,Interns,Conferences,"All Applicants",0
+1/2016,1,2016,Interns,Conferences,"Phone Screen",0
+1/2016,1,2016,Interns,Conferences,Onsite,0
+1/2016,1,2016,Interns,Conferences,"Final Onsite",0
+1/2016,1,2016,Interns,Conferences,Offer,0
+1/2016,1,2016,Interns,Conferences,Accept,0
+1/2016,1,2016,Interns,Conferences,Decline,0
+12/2015,12,2015,Sales,Referral,"All Applicants",5
+12/2015,12,2015,Sales,Referral,"Phone Screen",4
+12/2015,12,2015,Sales,Referral,Onsite,1
+12/2015,12,2015,Sales,Referral,"Final Onsite",0
+12/2015,12,2015,Sales,Referral,Offer,0
+12/2015,12,2015,Sales,Referral,Accept,0
+12/2015,12,2015,Sales,Referral,Decline,0
+12/2015,12,2015,Sales,"Angel List","All Applicants",7
+12/2015,12,2015,Sales,"Angel List","Phone Screen",3
+12/2015,12,2015,Sales,"Angel List",Onsite,1
+12/2015,12,2015,Sales,"Angel List","Final Onsite",0
+12/2015,12,2015,Sales,"Angel List",Offer,0
+12/2015,12,2015,Sales,"Angel List",Accept,0
+12/2015,12,2015,Sales,"Angel List",Decline,0
+12/2015,12,2015,Sales,"Career Site","All Applicants",32
+12/2015,12,2015,Sales,"Career Site","Phone Screen",3
+12/2015,12,2015,Sales,"Career Site",Onsite,0
+12/2015,12,2015,Sales,"Career Site","Final Onsite",0
+12/2015,12,2015,Sales,"Career Site",Offer,0
+12/2015,12,2015,Sales,"Career Site",Accept,0
+12/2015,12,2015,Sales,"Career Site",Decline,0
+12/2015,12,2015,Sales,Outreach,"All Applicants",0
+12/2015,12,2015,Sales,Outreach,"Phone Screen",0
+12/2015,12,2015,Sales,Outreach,Onsite,0
+12/2015,12,2015,Sales,Outreach,"Final Onsite",0
+12/2015,12,2015,Sales,Outreach,Offer,0
+12/2015,12,2015,Sales,Outreach,Accept,0
+12/2015,12,2015,Sales,Outreach,Decline,0
+12/2015,12,2015,Sales,Hired,"All Applicants",3
+12/2015,12,2015,Sales,Hired,"Phone Screen",3
+12/2015,12,2015,Sales,Hired,Onsite,1
+12/2015,12,2015,Sales,Hired,"Final Onsite",0
+12/2015,12,2015,Sales,Hired,Offer,0
+12/2015,12,2015,Sales,Hired,Accept,0
+12/2015,12,2015,Sales,Hired,Decline,0
+12/2015,12,2015,Sales,Gogohire,"All Applicants",3
+12/2015,12,2015,Sales,Gogohire,"Phone Screen",1
+12/2015,12,2015,Sales,Gogohire,Onsite,1
+12/2015,12,2015,Sales,Gogohire,"Final Onsite",0
+12/2015,12,2015,Sales,Gogohire,Offer,0
+12/2015,12,2015,Sales,Gogohire,Accept,0
+12/2015,12,2015,Sales,Gogohire,Decline,0
+12/2015,12,2015,Sales,HireUp,"All Applicants",0
+12/2015,12,2015,Sales,HireUp,"Phone Screen",0
+12/2015,12,2015,Sales,HireUp,Onsite,0
+12/2015,12,2015,Sales,HireUp,"Final Onsite",0
+12/2015,12,2015,Sales,HireUp,Offer,0
+12/2015,12,2015,Sales,HireUp,Accept,0
+12/2015,12,2015,Sales,HireUp,Decline,0
+12/2015,12,2015,Sales,Conferences,"All Applicants",1
+12/2015,12,2015,Sales,Conferences,"Phone Screen",0
+12/2015,12,2015,Sales,Conferences,Onsite,0
+12/2015,12,2015,Sales,Conferences,"Final Onsite",0
+12/2015,12,2015,Sales,Conferences,Offer,0
+12/2015,12,2015,Sales,Conferences,Accept,0
+12/2015,12,2015,Sales,Conferences,Decline,0
+12/2015,12,2015,Engineering,Referral,"All Applicants",1
+12/2015,12,2015,Engineering,Referral,"Phone Screen",1
+12/2015,12,2015,Engineering,Referral,Onsite,0
+12/2015,12,2015,Engineering,Referral,"Final Onsite",0
+12/2015,12,2015,Engineering,Referral,Offer,0
+12/2015,12,2015,Engineering,Referral,Accept,0
+12/2015,12,2015,Engineering,Referral,Decline,0
+12/2015,12,2015,Engineering,"Angel List","All Applicants",7
+12/2015,12,2015,Engineering,"Angel List","Phone Screen",2
+12/2015,12,2015,Engineering,"Angel List",Onsite,0
+12/2015,12,2015,Engineering,"Angel List","Final Onsite",0
+12/2015,12,2015,Engineering,"Angel List",Offer,0
+12/2015,12,2015,Engineering,"Angel List",Accept,0
+12/2015,12,2015,Engineering,"Angel List",Decline,0
+12/2015,12,2015,Engineering,"Career Site","All Applicants",23
+12/2015,12,2015,Engineering,"Career Site","Phone Screen",3
+12/2015,12,2015,Engineering,"Career Site",Onsite,0
+12/2015,12,2015,Engineering,"Career Site","Final Onsite",0
+12/2015,12,2015,Engineering,"Career Site",Offer,0
+12/2015,12,2015,Engineering,"Career Site",Accept,0
+12/2015,12,2015,Engineering,"Career Site",Decline,0
+12/2015,12,2015,Engineering,Outreach,"All Applicants",125
+12/2015,12,2015,Engineering,Outreach,"Phone Screen",1
+12/2015,12,2015,Engineering,Outreach,Onsite,1
+12/2015,12,2015,Engineering,Outreach,"Final Onsite",0
+12/2015,12,2015,Engineering,Outreach,Offer,0
+12/2015,12,2015,Engineering,Outreach,Accept,0
+12/2015,12,2015,Engineering,Outreach,Decline,0
+12/2015,12,2015,Engineering,Hired,"All Applicants",7
+12/2015,12,2015,Engineering,Hired,"Phone Screen",6
+12/2015,12,2015,Engineering,Hired,Onsite,2
+12/2015,12,2015,Engineering,Hired,"Final Onsite",0
+12/2015,12,2015,Engineering,Hired,Offer,0
+12/2015,12,2015,Engineering,Hired,Accept,0
+12/2015,12,2015,Engineering,Hired,Decline,0
+12/2015,12,2015,Engineering,Gogohire,"All Applicants",0
+12/2015,12,2015,Engineering,Gogohire,"Phone Screen",0
+12/2015,12,2015,Engineering,Gogohire,Onsite,0
+12/2015,12,2015,Engineering,Gogohire,"Final Onsite",0
+12/2015,12,2015,Engineering,Gogohire,Offer,0
+12/2015,12,2015,Engineering,Gogohire,Accept,0
+12/2015,12,2015,Engineering,Gogohire,Decline,0
+12/2015,12,2015,Engineering,HireUp,"All Applicants",0
+12/2015,12,2015,Engineering,HireUp,"Phone Screen",0
+12/2015,12,2015,Engineering,HireUp,Onsite,0
+12/2015,12,2015,Engineering,HireUp,"Final Onsite",0
+12/2015,12,2015,Engineering,HireUp,Offer,0
+12/2015,12,2015,Engineering,HireUp,Accept,0
+12/2015,12,2015,Engineering,HireUp,Decline,0
+12/2015,12,2015,Engineering,Conferences,"All Applicants",6
+12/2015,12,2015,Engineering,Conferences,"Phone Screen",6
+12/2015,12,2015,Engineering,Conferences,Onsite,2
+12/2015,12,2015,Engineering,Conferences,"Final Onsite",2
+12/2015,12,2015,Engineering,Conferences,Offer,1
+12/2015,12,2015,Engineering,Conferences,Accept,1
+12/2015,12,2015,Engineering,Conferences,Decline,0
+12/2015,12,2015,CSM,Referral,"All Applicants",0
+12/2015,12,2015,CSM,Referral,"Phone Screen",0
+12/2015,12,2015,CSM,Referral,Onsite,0
+12/2015,12,2015,CSM,Referral,"Final Onsite",0
+12/2015,12,2015,CSM,Referral,Offer,0
+12/2015,12,2015,CSM,Referral,Accept,0
+12/2015,12,2015,CSM,Referral,Decline,0
+12/2015,12,2015,CSM,"Angel List","All Applicants",4
+12/2015,12,2015,CSM,"Angel List","Phone Screen",0
+12/2015,12,2015,CSM,"Angel List",Onsite,0
+12/2015,12,2015,CSM,"Angel List","Final Onsite",0
+12/2015,12,2015,CSM,"Angel List",Offer,0
+12/2015,12,2015,CSM,"Angel List",Accept,0
+12/2015,12,2015,CSM,"Angel List",Decline,0
+12/2015,12,2015,CSM,"Career Site","All Applicants",23
+12/2015,12,2015,CSM,"Career Site","Phone Screen",3
+12/2015,12,2015,CSM,"Career Site",Onsite,2
+12/2015,12,2015,CSM,"Career Site","Final Onsite",0
+12/2015,12,2015,CSM,"Career Site",Offer,0
+12/2015,12,2015,CSM,"Career Site",Accept,0
+12/2015,12,2015,CSM,"Career Site",Decline,0
+12/2015,12,2015,CSM,Outreach,"All Applicants",0
+12/2015,12,2015,CSM,Outreach,"Phone Screen",0
+12/2015,12,2015,CSM,Outreach,Onsite,0
+12/2015,12,2015,CSM,Outreach,"Final Onsite",0
+12/2015,12,2015,CSM,Outreach,Offer,0
+12/2015,12,2015,CSM,Outreach,Accept,0
+12/2015,12,2015,CSM,Outreach,Decline,0
+12/2015,12,2015,CSM,Hired,"All Applicants",0
+12/2015,12,2015,CSM,Hired,"Phone Screen",0
+12/2015,12,2015,CSM,Hired,Onsite,0
+12/2015,12,2015,CSM,Hired,"Final Onsite",0
+12/2015,12,2015,CSM,Hired,Offer,0
+12/2015,12,2015,CSM,Hired,Accept,0
+12/2015,12,2015,CSM,Hired,Decline,0
+12/2015,12,2015,CSM,Gogohire,"All Applicants",5
+12/2015,12,2015,CSM,Gogohire,"Phone Screen",5
+12/2015,12,2015,CSM,Gogohire,Onsite,3
+12/2015,12,2015,CSM,Gogohire,"Final Onsite",1
+12/2015,12,2015,CSM,Gogohire,Offer,0
+12/2015,12,2015,CSM,Gogohire,Accept,0
+12/2015,12,2015,CSM,Gogohire,Decline,0
+12/2015,12,2015,CSM,HireUp,"All Applicants",0
+12/2015,12,2015,CSM,HireUp,"Phone Screen",0
+12/2015,12,2015,CSM,HireUp,Onsite,0
+12/2015,12,2015,CSM,HireUp,"Final Onsite",0
+12/2015,12,2015,CSM,HireUp,Offer,0
+12/2015,12,2015,CSM,HireUp,Accept,0
+12/2015,12,2015,CSM,HireUp,Decline,0
+12/2015,12,2015,CSM,Conferences,"All Applicants",0
+12/2015,12,2015,CSM,Conferences,"Phone Screen",0
+12/2015,12,2015,CSM,Conferences,Onsite,0
+12/2015,12,2015,CSM,Conferences,"Final Onsite",0
+12/2015,12,2015,CSM,Conferences,Offer,0
+12/2015,12,2015,CSM,Conferences,Accept,0
+12/2015,12,2015,CSM,Conferences,Decline,0
+12/2015,12,2015,Interns,Referral,"All Applicants",0
+12/2015,12,2015,Interns,Referral,"Phone Screen",0
+12/2015,12,2015,Interns,Referral,Onsite,0
+12/2015,12,2015,Interns,Referral,"Final Onsite",0
+12/2015,12,2015,Interns,Referral,Offer,0
+12/2015,12,2015,Interns,Referral,Accept,0
+12/2015,12,2015,Interns,Referral,Decline,0
+12/2015,12,2015,Interns,"Angel List","All Applicants",0
+12/2015,12,2015,Interns,"Angel List","Phone Screen",0
+12/2015,12,2015,Interns,"Angel List",Onsite,0
+12/2015,12,2015,Interns,"Angel List","Final Onsite",0
+12/2015,12,2015,Interns,"Angel List",Offer,0
+12/2015,12,2015,Interns,"Angel List",Accept,0
+12/2015,12,2015,Interns,"Angel List",Decline,0
+12/2015,12,2015,Interns,"Career Site","All Applicants",0
+12/2015,12,2015,Interns,"Career Site","Phone Screen",0
+12/2015,12,2015,Interns,"Career Site",Onsite,0
+12/2015,12,2015,Interns,"Career Site","Final Onsite",0
+12/2015,12,2015,Interns,"Career Site",Offer,0
+12/2015,12,2015,Interns,"Career Site",Accept,0
+12/2015,12,2015,Interns,"Career Site",Decline,0
+12/2015,12,2015,Interns,Outreach,"All Applicants",0
+12/2015,12,2015,Interns,Outreach,"Phone Screen",0
+12/2015,12,2015,Interns,Outreach,Onsite,0
+12/2015,12,2015,Interns,Outreach,"Final Onsite",0
+12/2015,12,2015,Interns,Outreach,Offer,0
+12/2015,12,2015,Interns,Outreach,Accept,0
+12/2015,12,2015,Interns,Outreach,Decline,0
+12/2015,12,2015,Interns,Hired,"All Applicants",0
+12/2015,12,2015,Interns,Hired,"Phone Screen",0
+12/2015,12,2015,Interns,Hired,Onsite,0
+12/2015,12,2015,Interns,Hired,"Final Onsite",0
+12/2015,12,2015,Interns,Hired,Offer,0
+12/2015,12,2015,Interns,Hired,Accept,0
+12/2015,12,2015,Interns,Hired,Decline,0
+12/2015,12,2015,Interns,Gogohire,"All Applicants",0
+12/2015,12,2015,Interns,Gogohire,"Phone Screen",0
+12/2015,12,2015,Interns,Gogohire,Onsite,0
+12/2015,12,2015,Interns,Gogohire,"Final Onsite",0
+12/2015,12,2015,Interns,Gogohire,Offer,0
+12/2015,12,2015,Interns,Gogohire,Accept,0
+12/2015,12,2015,Interns,Gogohire,Decline,0
+12/2015,12,2015,Interns,HireUp,"All Applicants",0
+12/2015,12,2015,Interns,HireUp,"Phone Screen",0
+12/2015,12,2015,Interns,HireUp,Onsite,0
+12/2015,12,2015,Interns,HireUp,"Final Onsite",0
+12/2015,12,2015,Interns,HireUp,Offer,0
+12/2015,12,2015,Interns,HireUp,Accept,0
+12/2015,12,2015,Interns,HireUp,Decline,0
+12/2015,12,2015,Interns,Conferences,"All Applicants",0
+12/2015,12,2015,Interns,Conferences,"Phone Screen",0
+12/2015,12,2015,Interns,Conferences,Onsite,0
+12/2015,12,2015,Interns,Conferences,"Final Onsite",0
+12/2015,12,2015,Interns,Conferences,Offer,0
+12/2015,12,2015,Interns,Conferences,Accept,0
+12/2015,12,2015,Interns,Conferences,Decline,0
+11/2015,11,2015,Sales,Referral,"All Applicants",1
+11/2015,11,2015,Sales,Referral,"Phone Screen",1
+11/2015,11,2015,Sales,Referral,Onsite,1
+11/2015,11,2015,Sales,Referral,"Final Onsite",1
+11/2015,11,2015,Sales,Referral,Offer,0
+11/2015,11,2015,Sales,Referral,Accept,0
+11/2015,11,2015,Sales,Referral,Decline,0
+11/2015,11,2015,Sales,"Angel List","All Applicants",7
+11/2015,11,2015,Sales,"Angel List","Phone Screen",2
+11/2015,11,2015,Sales,"Angel List",Onsite,2
+11/2015,11,2015,Sales,"Angel List","Final Onsite",1
+11/2015,11,2015,Sales,"Angel List",Offer,0
+11/2015,11,2015,Sales,"Angel List",Accept,0
+11/2015,11,2015,Sales,"Angel List",Decline,0
+11/2015,11,2015,Sales,"Career Site","All Applicants",23
+11/2015,11,2015,Sales,"Career Site","Phone Screen",1
+11/2015,11,2015,Sales,"Career Site",Onsite,1
+11/2015,11,2015,Sales,"Career Site","Final Onsite",1
+11/2015,11,2015,Sales,"Career Site",Offer,0
+11/2015,11,2015,Sales,"Career Site",Accept,0
+11/2015,11,2015,Sales,"Career Site",Decline,0
+11/2015,11,2015,Sales,Outreach,"All Applicants",0
+11/2015,11,2015,Sales,Outreach,"Phone Screen",0
+11/2015,11,2015,Sales,Outreach,Onsite,0
+11/2015,11,2015,Sales,Outreach,"Final Onsite",0
+11/2015,11,2015,Sales,Outreach,Offer,0
+11/2015,11,2015,Sales,Outreach,Accept,0
+11/2015,11,2015,Sales,Outreach,Decline,0
+11/2015,11,2015,Sales,Hired,"All Applicants",12
+11/2015,11,2015,Sales,Hired,"Phone Screen",10
+11/2015,11,2015,Sales,Hired,Onsite,5
+11/2015,11,2015,Sales,Hired,"Final Onsite",2
+11/2015,11,2015,Sales,Hired,Offer,2
+11/2015,11,2015,Sales,Hired,Accept,2
+11/2015,11,2015,Sales,Hired,Decline,0
+11/2015,11,2015,Sales,Gogohire,"All Applicants",3
+11/2015,11,2015,Sales,Gogohire,"Phone Screen",3
+11/2015,11,2015,Sales,Gogohire,Onsite,3
+11/2015,11,2015,Sales,Gogohire,"Final Onsite",2
+11/2015,11,2015,Sales,Gogohire,Offer,0
+11/2015,11,2015,Sales,Gogohire,Accept,0
+11/2015,11,2015,Sales,Gogohire,Decline,0
+11/2015,11,2015,Sales,HireUp,"All Applicants",0
+11/2015,11,2015,Sales,HireUp,"Phone Screen",0
+11/2015,11,2015,Sales,HireUp,Onsite,0
+11/2015,11,2015,Sales,HireUp,"Final Onsite",0
+11/2015,11,2015,Sales,HireUp,Offer,0
+11/2015,11,2015,Sales,HireUp,Accept,0
+11/2015,11,2015,Sales,HireUp,Decline,0
+11/2015,11,2015,Sales,Conferences,"All Applicants",0
+11/2015,11,2015,Sales,Conferences,"Phone Screen",0
+11/2015,11,2015,Sales,Conferences,Onsite,0
+11/2015,11,2015,Sales,Conferences,"Final Onsite",0
+11/2015,11,2015,Sales,Conferences,Offer,0
+11/2015,11,2015,Sales,Conferences,Accept,0
+11/2015,11,2015,Sales,Conferences,Decline,0
+11/2015,11,2015,Engineering,Referral,"All Applicants",0
+11/2015,11,2015,Engineering,Referral,"Phone Screen",0
+11/2015,11,2015,Engineering,Referral,Onsite,0
+11/2015,11,2015,Engineering,Referral,"Final Onsite",0
+11/2015,11,2015,Engineering,Referral,Offer,0
+11/2015,11,2015,Engineering,Referral,Accept,0
+11/2015,11,2015,Engineering,Referral,Decline,0
+11/2015,11,2015,Engineering,"Angel List","All Applicants",3
+11/2015,11,2015,Engineering,"Angel List","Phone Screen",1
+11/2015,11,2015,Engineering,"Angel List",Onsite,0
+11/2015,11,2015,Engineering,"Angel List","Final Onsite",0
+11/2015,11,2015,Engineering,"Angel List",Offer,0
+11/2015,11,2015,Engineering,"Angel List",Accept,0
+11/2015,11,2015,Engineering,"Angel List",Decline,0
+11/2015,11,2015,Engineering,"Career Site","All Applicants",34
+11/2015,11,2015,Engineering,"Career Site","Phone Screen",2
+11/2015,11,2015,Engineering,"Career Site",Onsite,1
+11/2015,11,2015,Engineering,"Career Site","Final Onsite",1
+11/2015,11,2015,Engineering,"Career Site",Offer,0
+11/2015,11,2015,Engineering,"Career Site",Accept,0
+11/2015,11,2015,Engineering,"Career Site",Decline,0
+11/2015,11,2015,Engineering,Outreach,"All Applicants",90
+11/2015,11,2015,Engineering,Outreach,"Phone Screen",2
+11/2015,11,2015,Engineering,Outreach,Onsite,1
+11/2015,11,2015,Engineering,Outreach,"Final Onsite",1
+11/2015,11,2015,Engineering,Outreach,Offer,0
+11/2015,11,2015,Engineering,Outreach,Accept,0
+11/2015,11,2015,Engineering,Outreach,Decline,0
+11/2015,11,2015,Engineering,Hired,"All Applicants",3
+11/2015,11,2015,Engineering,Hired,"Phone Screen",1
+11/2015,11,2015,Engineering,Hired,Onsite,0
+11/2015,11,2015,Engineering,Hired,"Final Onsite",0
+11/2015,11,2015,Engineering,Hired,Offer,0
+11/2015,11,2015,Engineering,Hired,Accept,0
+11/2015,11,2015,Engineering,Hired,Decline,0
+11/2015,11,2015,Engineering,Gogohire,"All Applicants",0
+11/2015,11,2015,Engineering,Gogohire,"Phone Screen",0
+11/2015,11,2015,Engineering,Gogohire,Onsite,0
+11/2015,11,2015,Engineering,Gogohire,"Final Onsite",0
+11/2015,11,2015,Engineering,Gogohire,Offer,0
+11/2015,11,2015,Engineering,Gogohire,Accept,0
+11/2015,11,2015,Engineering,Gogohire,Decline,0
+11/2015,11,2015,Engineering,HireUp,"All Applicants",0
+11/2015,11,2015,Engineering,HireUp,"Phone Screen",0
+11/2015,11,2015,Engineering,HireUp,Onsite,0
+11/2015,11,2015,Engineering,HireUp,"Final Onsite",0
+11/2015,11,2015,Engineering,HireUp,Offer,0
+11/2015,11,2015,Engineering,HireUp,Accept,0
+11/2015,11,2015,Engineering,HireUp,Decline,0
+11/2015,11,2015,Engineering,Conferences,"All Applicants",3
+11/2015,11,2015,Engineering,Conferences,"Phone Screen",3
+11/2015,11,2015,Engineering,Conferences,Onsite,3
+11/2015,11,2015,Engineering,Conferences,"Final Onsite",2
+11/2015,11,2015,Engineering,Conferences,Offer,0
+11/2015,11,2015,Engineering,Conferences,Accept,0
+11/2015,11,2015,Engineering,Conferences,Decline,0
+11/2015,11,2015,CSM,Referral,"All Applicants",0
+11/2015,11,2015,CSM,Referral,"Phone Screen",0
+11/2015,11,2015,CSM,Referral,Onsite,0
+11/2015,11,2015,CSM,Referral,"Final Onsite",0
+11/2015,11,2015,CSM,Referral,Offer,0
+11/2015,11,2015,CSM,Referral,Accept,0
+11/2015,11,2015,CSM,Referral,Decline,0
+11/2015,11,2015,CSM,"Angel List","All Applicants",0
+11/2015,11,2015,CSM,"Angel List","Phone Screen",0
+11/2015,11,2015,CSM,"Angel List",Onsite,0
+11/2015,11,2015,CSM,"Angel List","Final Onsite",0
+11/2015,11,2015,CSM,"Angel List",Offer,0
+11/2015,11,2015,CSM,"Angel List",Accept,0
+11/2015,11,2015,CSM,"Angel List",Decline,0
+11/2015,11,2015,CSM,"Career Site","All Applicants",0
+11/2015,11,2015,CSM,"Career Site","Phone Screen",0
+11/2015,11,2015,CSM,"Career Site",Onsite,0
+11/2015,11,2015,CSM,"Career Site","Final Onsite",0
+11/2015,11,2015,CSM,"Career Site",Offer,0
+11/2015,11,2015,CSM,"Career Site",Accept,0
+11/2015,11,2015,CSM,"Career Site",Decline,0
+11/2015,11,2015,CSM,Outreach,"All Applicants",0
+11/2015,11,2015,CSM,Outreach,"Phone Screen",0
+11/2015,11,2015,CSM,Outreach,Onsite,0
+11/2015,11,2015,CSM,Outreach,"Final Onsite",0
+11/2015,11,2015,CSM,Outreach,Offer,0
+11/2015,11,2015,CSM,Outreach,Accept,0
+11/2015,11,2015,CSM,Outreach,Decline,0
+11/2015,11,2015,CSM,Hired,"All Applicants",0
+11/2015,11,2015,CSM,Hired,"Phone Screen",0
+11/2015,11,2015,CSM,Hired,Onsite,0
+11/2015,11,2015,CSM,Hired,"Final Onsite",0
+11/2015,11,2015,CSM,Hired,Offer,0
+11/2015,11,2015,CSM,Hired,Accept,0
+11/2015,11,2015,CSM,Hired,Decline,0
+11/2015,11,2015,CSM,Gogohire,"All Applicants",0
+11/2015,11,2015,CSM,Gogohire,"Phone Screen",0
+11/2015,11,2015,CSM,Gogohire,Onsite,0
+11/2015,11,2015,CSM,Gogohire,"Final Onsite",0
+11/2015,11,2015,CSM,Gogohire,Offer,0
+11/2015,11,2015,CSM,Gogohire,Accept,0
+11/2015,11,2015,CSM,Gogohire,Decline,0
+11/2015,11,2015,CSM,HireUp,"All Applicants",0
+11/2015,11,2015,CSM,HireUp,"Phone Screen",0
+11/2015,11,2015,CSM,HireUp,Onsite,0
+11/2015,11,2015,CSM,HireUp,"Final Onsite",0
+11/2015,11,2015,CSM,HireUp,Offer,0
+11/2015,11,2015,CSM,HireUp,Accept,0
+11/2015,11,2015,CSM,HireUp,Decline,0
+11/2015,11,2015,CSM,Conferences,"All Applicants",0
+11/2015,11,2015,CSM,Conferences,"Phone Screen",0
+11/2015,11,2015,CSM,Conferences,Onsite,0
+11/2015,11,2015,CSM,Conferences,"Final Onsite",0
+11/2015,11,2015,CSM,Conferences,Offer,0
+11/2015,11,2015,CSM,Conferences,Accept,0
+11/2015,11,2015,CSM,Conferences,Decline,0
+11/2015,11,2015,Interns,Referral,"All Applicants",0
+11/2015,11,2015,Interns,Referral,"Phone Screen",0
+11/2015,11,2015,Interns,Referral,Onsite,0
+11/2015,11,2015,Interns,Referral,"Final Onsite",0
+11/2015,11,2015,Interns,Referral,Offer,0
+11/2015,11,2015,Interns,Referral,Accept,0
+11/2015,11,2015,Interns,Referral,Decline,0
+11/2015,11,2015,Interns,"Angel List","All Applicants",0
+11/2015,11,2015,Interns,"Angel List","Phone Screen",0
+11/2015,11,2015,Interns,"Angel List",Onsite,0
+11/2015,11,2015,Interns,"Angel List","Final Onsite",0
+11/2015,11,2015,Interns,"Angel List",Offer,0
+11/2015,11,2015,Interns,"Angel List",Accept,0
+11/2015,11,2015,Interns,"Angel List",Decline,0
+11/2015,11,2015,Interns,"Career Site","All Applicants",0
+11/2015,11,2015,Interns,"Career Site","Phone Screen",0
+11/2015,11,2015,Interns,"Career Site",Onsite,0
+11/2015,11,2015,Interns,"Career Site","Final Onsite",0
+11/2015,11,2015,Interns,"Career Site",Offer,0
+11/2015,11,2015,Interns,"Career Site",Accept,0
+11/2015,11,2015,Interns,"Career Site",Decline,0
+11/2015,11,2015,Interns,Outreach,"All Applicants",0
+11/2015,11,2015,Interns,Outreach,"Phone Screen",0
+11/2015,11,2015,Interns,Outreach,Onsite,0
+11/2015,11,2015,Interns,Outreach,"Final Onsite",0
+11/2015,11,2015,Interns,Outreach,Offer,0
+11/2015,11,2015,Interns,Outreach,Accept,0
+11/2015,11,2015,Interns,Outreach,Decline,0
+11/2015,11,2015,Interns,Hired,"All Applicants",0
+11/2015,11,2015,Interns,Hired,"Phone Screen",0
+11/2015,11,2015,Interns,Hired,Onsite,0
+11/2015,11,2015,Interns,Hired,"Final Onsite",0
+11/2015,11,2015,Interns,Hired,Offer,0
+11/2015,11,2015,Interns,Hired,Accept,0
+11/2015,11,2015,Interns,Hired,Decline,0
+11/2015,11,2015,Interns,Gogohire,"All Applicants",0
+11/2015,11,2015,Interns,Gogohire,"Phone Screen",0
+11/2015,11,2015,Interns,Gogohire,Onsite,0
+11/2015,11,2015,Interns,Gogohire,"Final Onsite",0
+11/2015,11,2015,Interns,Gogohire,Offer,0
+11/2015,11,2015,Interns,Gogohire,Accept,0
+11/2015,11,2015,Interns,Gogohire,Decline,0
+11/2015,11,2015,Interns,HireUp,"All Applicants",0
+11/2015,11,2015,Interns,HireUp,"Phone Screen",0
+11/2015,11,2015,Interns,HireUp,Onsite,0
+11/2015,11,2015,Interns,HireUp,"Final Onsite",0
+11/2015,11,2015,Interns,HireUp,Offer,0
+11/2015,11,2015,Interns,HireUp,Accept,0
+11/2015,11,2015,Interns,HireUp,Decline,0
+11/2015,11,2015,Interns,Conferences,"All Applicants",0
+11/2015,11,2015,Interns,Conferences,"Phone Screen",0
+11/2015,11,2015,Interns,Conferences,Onsite,0
+11/2015,11,2015,Interns,Conferences,"Final Onsite",0
+11/2015,11,2015,Interns,Conferences,Offer,0
+11/2015,11,2015,Interns,Conferences,Accept,0
+11/2015,11,2015,Interns,Conferences,Decline,0
+10/2015,10,2015,Sales,Referral,"All Applicants",3
+10/2015,10,2015,Sales,Referral,"Phone Screen",2
+10/2015,10,2015,Sales,Referral,Onsite,2
+10/2015,10,2015,Sales,Referral,"Final Onsite",1
+10/2015,10,2015,Sales,Referral,Offer,1
+10/2015,10,2015,Sales,Referral,Accept,1
+10/2015,10,2015,Sales,Referral,Decline,0
+10/2015,10,2015,Sales,"Angel List","All Applicants",24
+10/2015,10,2015,Sales,"Angel List","Phone Screen",13
+10/2015,10,2015,Sales,"Angel List",Onsite,3
+10/2015,10,2015,Sales,"Angel List","Final Onsite",2
+10/2015,10,2015,Sales,"Angel List",Offer,0
+10/2015,10,2015,Sales,"Angel List",Accept,0
+10/2015,10,2015,Sales,"Angel List",Decline,0
+10/2015,10,2015,Sales,"Career Site","All Applicants",38
+10/2015,10,2015,Sales,"Career Site","Phone Screen",6
+10/2015,10,2015,Sales,"Career Site",Onsite,4
+10/2015,10,2015,Sales,"Career Site","Final Onsite",1
+10/2015,10,2015,Sales,"Career Site",Offer,0
+10/2015,10,2015,Sales,"Career Site",Accept,0
+10/2015,10,2015,Sales,"Career Site",Decline,0
+10/2015,10,2015,Sales,Outreach,"All Applicants",38
+10/2015,10,2015,Sales,Outreach,"Phone Screen",0
+10/2015,10,2015,Sales,Outreach,Onsite,0
+10/2015,10,2015,Sales,Outreach,"Final Onsite",0
+10/2015,10,2015,Sales,Outreach,Offer,0
+10/2015,10,2015,Sales,Outreach,Accept,0
+10/2015,10,2015,Sales,Outreach,Decline,0
+10/2015,10,2015,Sales,Hired,"All Applicants",9
+10/2015,10,2015,Sales,Hired,"Phone Screen",6
+10/2015,10,2015,Sales,Hired,Onsite,4
+10/2015,10,2015,Sales,Hired,"Final Onsite",1
+10/2015,10,2015,Sales,Hired,Offer,0
+10/2015,10,2015,Sales,Hired,Accept,0
+10/2015,10,2015,Sales,Hired,Decline,0
+10/2015,10,2015,Sales,Gogohire,"All Applicants",2
+10/2015,10,2015,Sales,Gogohire,"Phone Screen",0
+10/2015,10,2015,Sales,Gogohire,Onsite,0
+10/2015,10,2015,Sales,Gogohire,"Final Onsite",0
+10/2015,10,2015,Sales,Gogohire,Offer,0
+10/2015,10,2015,Sales,Gogohire,Accept,0
+10/2015,10,2015,Sales,Gogohire,Decline,0
+10/2015,10,2015,Sales,HireUp,"All Applicants",0
+10/2015,10,2015,Sales,HireUp,"Phone Screen",0
+10/2015,10,2015,Sales,HireUp,Onsite,0
+10/2015,10,2015,Sales,HireUp,"Final Onsite",0
+10/2015,10,2015,Sales,HireUp,Offer,0
+10/2015,10,2015,Sales,HireUp,Accept,0
+10/2015,10,2015,Sales,HireUp,Decline,0
+10/2015,10,2015,Sales,Conferences,"All Applicants",0
+10/2015,10,2015,Sales,Conferences,"Phone Screen",0
+10/2015,10,2015,Sales,Conferences,Onsite,0
+10/2015,10,2015,Sales,Conferences,"Final Onsite",0
+10/2015,10,2015,Sales,Conferences,Offer,0
+10/2015,10,2015,Sales,Conferences,Accept,0
+10/2015,10,2015,Sales,Conferences,Decline,0
+10/2015,10,2015,Engineering,Referral,"All Applicants",0
+10/2015,10,2015,Engineering,Referral,"Phone Screen",0
+10/2015,10,2015,Engineering,Referral,Onsite,0
+10/2015,10,2015,Engineering,Referral,"Final Onsite",0
+10/2015,10,2015,Engineering,Referral,Offer,0
+10/2015,10,2015,Engineering,Referral,Accept,0
+10/2015,10,2015,Engineering,Referral,Decline,0
+10/2015,10,2015,Engineering,"Angel List","All Applicants",21
+10/2015,10,2015,Engineering,"Angel List","Phone Screen",1
+10/2015,10,2015,Engineering,"Angel List",Onsite,0
+10/2015,10,2015,Engineering,"Angel List","Final Onsite",0
+10/2015,10,2015,Engineering,"Angel List",Offer,0
+10/2015,10,2015,Engineering,"Angel List",Accept,0
+10/2015,10,2015,Engineering,"Angel List",Decline,0
+10/2015,10,2015,Engineering,"Career Site","All Applicants",18
+10/2015,10,2015,Engineering,"Career Site","Phone Screen",4
+10/2015,10,2015,Engineering,"Career Site",Onsite,0
+10/2015,10,2015,Engineering,"Career Site","Final Onsite",0
+10/2015,10,2015,Engineering,"Career Site",Offer,0
+10/2015,10,2015,Engineering,"Career Site",Accept,0
+10/2015,10,2015,Engineering,"Career Site",Decline,0
+10/2015,10,2015,Engineering,Outreach,"All Applicants",73
+10/2015,10,2015,Engineering,Outreach,"Phone Screen",0
+10/2015,10,2015,Engineering,Outreach,Onsite,0
+10/2015,10,2015,Engineering,Outreach,"Final Onsite",0
+10/2015,10,2015,Engineering,Outreach,Offer,0
+10/2015,10,2015,Engineering,Outreach,Accept,0
+10/2015,10,2015,Engineering,Outreach,Decline,0
+10/2015,10,2015,Engineering,Hired,"All Applicants",1
+10/2015,10,2015,Engineering,Hired,"Phone Screen",0
+10/2015,10,2015,Engineering,Hired,Onsite,0
+10/2015,10,2015,Engineering,Hired,"Final Onsite",0
+10/2015,10,2015,Engineering,Hired,Offer,0
+10/2015,10,2015,Engineering,Hired,Accept,0
+10/2015,10,2015,Engineering,Hired,Decline,0
+10/2015,10,2015,Engineering,Gogohire,"All Applicants",0
+10/2015,10,2015,Engineering,Gogohire,"Phone Screen",0
+10/2015,10,2015,Engineering,Gogohire,Onsite,0
+10/2015,10,2015,Engineering,Gogohire,"Final Onsite",0
+10/2015,10,2015,Engineering,Gogohire,Offer,0
+10/2015,10,2015,Engineering,Gogohire,Accept,0
+10/2015,10,2015,Engineering,Gogohire,Decline,0
+10/2015,10,2015,Engineering,HireUp,"All Applicants",0
+10/2015,10,2015,Engineering,HireUp,"Phone Screen",0
+10/2015,10,2015,Engineering,HireUp,Onsite,0
+10/2015,10,2015,Engineering,HireUp,"Final Onsite",0
+10/2015,10,2015,Engineering,HireUp,Offer,0
+10/2015,10,2015,Engineering,HireUp,Accept,0
+10/2015,10,2015,Engineering,HireUp,Decline,0
+10/2015,10,2015,Engineering,Conferences,"All Applicants",0
+10/2015,10,2015,Engineering,Conferences,"Phone Screen",0
+10/2015,10,2015,Engineering,Conferences,Onsite,0
+10/2015,10,2015,Engineering,Conferences,"Final Onsite",0
+10/2015,10,2015,Engineering,Conferences,Offer,0
+10/2015,10,2015,Engineering,Conferences,Accept,0
+10/2015,10,2015,Engineering,Conferences,Decline,0
+10/2015,10,2015,CSM,Referral,"All Applicants",0
+10/2015,10,2015,CSM,Referral,"Phone Screen",0
+10/2015,10,2015,CSM,Referral,Onsite,0
+10/2015,10,2015,CSM,Referral,"Final Onsite",0
+10/2015,10,2015,CSM,Referral,Offer,0
+10/2015,10,2015,CSM,Referral,Accept,0
+10/2015,10,2015,CSM,Referral,Decline,0
+10/2015,10,2015,CSM,"Angel List","All Applicants",0
+10/2015,10,2015,CSM,"Angel List","Phone Screen",0
+10/2015,10,2015,CSM,"Angel List",Onsite,0
+10/2015,10,2015,CSM,"Angel List","Final Onsite",0
+10/2015,10,2015,CSM,"Angel List",Offer,0
+10/2015,10,2015,CSM,"Angel List",Accept,0
+10/2015,10,2015,CSM,"Angel List",Decline,0
+10/2015,10,2015,CSM,"Career Site","All Applicants",0
+10/2015,10,2015,CSM,"Career Site","Phone Screen",0
+10/2015,10,2015,CSM,"Career Site",Onsite,0
+10/2015,10,2015,CSM,"Career Site","Final Onsite",0
+10/2015,10,2015,CSM,"Career Site",Offer,0
+10/2015,10,2015,CSM,"Career Site",Accept,0
+10/2015,10,2015,CSM,"Career Site",Decline,0
+10/2015,10,2015,CSM,Outreach,"All Applicants",0
+10/2015,10,2015,CSM,Outreach,"Phone Screen",0
+10/2015,10,2015,CSM,Outreach,Onsite,0
+10/2015,10,2015,CSM,Outreach,"Final Onsite",0
+10/2015,10,2015,CSM,Outreach,Offer,0
+10/2015,10,2015,CSM,Outreach,Accept,0
+10/2015,10,2015,CSM,Outreach,Decline,0
+10/2015,10,2015,CSM,Hired,"All Applicants",0
+10/2015,10,2015,CSM,Hired,"Phone Screen",0
+10/2015,10,2015,CSM,Hired,Onsite,0
+10/2015,10,2015,CSM,Hired,"Final Onsite",0
+10/2015,10,2015,CSM,Hired,Offer,0
+10/2015,10,2015,CSM,Hired,Accept,0
+10/2015,10,2015,CSM,Hired,Decline,0
+10/2015,10,2015,CSM,Gogohire,"All Applicants",0
+10/2015,10,2015,CSM,Gogohire,"Phone Screen",0
+10/2015,10,2015,CSM,Gogohire,Onsite,0
+10/2015,10,2015,CSM,Gogohire,"Final Onsite",0
+10/2015,10,2015,CSM,Gogohire,Offer,0
+10/2015,10,2015,CSM,Gogohire,Accept,0
+10/2015,10,2015,CSM,Gogohire,Decline,0
+10/2015,10,2015,CSM,HireUp,"All Applicants",0
+10/2015,10,2015,CSM,HireUp,"Phone Screen",0
+10/2015,10,2015,CSM,HireUp,Onsite,0
+10/2015,10,2015,CSM,HireUp,"Final Onsite",0
+10/2015,10,2015,CSM,HireUp,Offer,0
+10/2015,10,2015,CSM,HireUp,Accept,0
+10/2015,10,2015,CSM,HireUp,Decline,0
+10/2015,10,2015,CSM,Conferences,"All Applicants",0
+10/2015,10,2015,CSM,Conferences,"Phone Screen",0
+10/2015,10,2015,CSM,Conferences,Onsite,0
+10/2015,10,2015,CSM,Conferences,"Final Onsite",0
+10/2015,10,2015,CSM,Conferences,Offer,0
+10/2015,10,2015,CSM,Conferences,Accept,0
+10/2015,10,2015,CSM,Conferences,Decline,0
+10/2015,10,2015,Interns,Referral,"All Applicants",0
+10/2015,10,2015,Interns,Referral,"Phone Screen",0
+10/2015,10,2015,Interns,Referral,Onsite,0
+10/2015,10,2015,Interns,Referral,"Final Onsite",0
+10/2015,10,2015,Interns,Referral,Offer,0
+10/2015,10,2015,Interns,Referral,Accept,0
+10/2015,10,2015,Interns,Referral,Decline,0
+10/2015,10,2015,Interns,"Angel List","All Applicants",0
+10/2015,10,2015,Interns,"Angel List","Phone Screen",0
+10/2015,10,2015,Interns,"Angel List",Onsite,0
+10/2015,10,2015,Interns,"Angel List","Final Onsite",0
+10/2015,10,2015,Interns,"Angel List",Offer,0
+10/2015,10,2015,Interns,"Angel List",Accept,0
+10/2015,10,2015,Interns,"Angel List",Decline,0
+10/2015,10,2015,Interns,"Career Site","All Applicants",0
+10/2015,10,2015,Interns,"Career Site","Phone Screen",0
+10/2015,10,2015,Interns,"Career Site",Onsite,0
+10/2015,10,2015,Interns,"Career Site","Final Onsite",0
+10/2015,10,2015,Interns,"Career Site",Offer,0
+10/2015,10,2015,Interns,"Career Site",Accept,0
+10/2015,10,2015,Interns,"Career Site",Decline,0
+10/2015,10,2015,Interns,Outreach,"All Applicants",0
+10/2015,10,2015,Interns,Outreach,"Phone Screen",0
+10/2015,10,2015,Interns,Outreach,Onsite,0
+10/2015,10,2015,Interns,Outreach,"Final Onsite",0
+10/2015,10,2015,Interns,Outreach,Offer,0
+10/2015,10,2015,Interns,Outreach,Accept,0
+10/2015,10,2015,Interns,Outreach,Decline,0
+10/2015,10,2015,Interns,Hired,"All Applicants",0
+10/2015,10,2015,Interns,Hired,"Phone Screen",0
+10/2015,10,2015,Interns,Hired,Onsite,0
+10/2015,10,2015,Interns,Hired,"Final Onsite",0
+10/2015,10,2015,Interns,Hired,Offer,0
+10/2015,10,2015,Interns,Hired,Accept,0
+10/2015,10,2015,Interns,Hired,Decline,0
+10/2015,10,2015,Interns,Gogohire,"All Applicants",0
+10/2015,10,2015,Interns,Gogohire,"Phone Screen",0
+10/2015,10,2015,Interns,Gogohire,Onsite,0
+10/2015,10,2015,Interns,Gogohire,"Final Onsite",0
+10/2015,10,2015,Interns,Gogohire,Offer,0
+10/2015,10,2015,Interns,Gogohire,Accept,0
+10/2015,10,2015,Interns,Gogohire,Decline,0
+10/2015,10,2015,Interns,HireUp,"All Applicants",0
+10/2015,10,2015,Interns,HireUp,"Phone Screen",0
+10/2015,10,2015,Interns,HireUp,Onsite,0
+10/2015,10,2015,Interns,HireUp,"Final Onsite",0
+10/2015,10,2015,Interns,HireUp,Offer,0
+10/2015,10,2015,Interns,HireUp,Accept,0
+10/2015,10,2015,Interns,HireUp,Decline,0
+10/2015,10,2015,Interns,Conferences,"All Applicants",0
+10/2015,10,2015,Interns,Conferences,"Phone Screen",0
+10/2015,10,2015,Interns,Conferences,Onsite,0
+10/2015,10,2015,Interns,Conferences,"Final Onsite",0
+10/2015,10,2015,Interns,Conferences,Offer,0
+10/2015,10,2015,Interns,Conferences,Accept,0
+10/2015,10,2015,Interns,Conferences,Decline,0
